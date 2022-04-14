@@ -17,7 +17,11 @@
 				{{ $url := urls.Parse .URL }}
 				{{ $baseurl := urls.Parse $.Site.Params.Baseurl }}
 				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}"
-				 {{ if ne $url.Host $baseurl.Host }} target="_blank" {{ end }}><span {{if $active }} class="active" {{end}}>{{ .Name }}</span></a>
+				 {{ if ne $url.Host $baseurl.Host }} target="_blank" {{ end }}>
+				 <span> {{ .Pre }} </span>
+				 <span {{if $active }} class="active" {{end}}>{{ .Name }}</span>
+				 <span> {{ .Post }} </span>
+				</a>
 			</li>
 			{{ end }}
 			{{ if .Site.Params.versions }}

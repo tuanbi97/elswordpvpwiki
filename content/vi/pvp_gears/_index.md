@@ -1,11 +1,9 @@
-
 ---
-title: "Store Optimizer Tiếng Việt"
-linkTitle: "Store Optimizer"
-weight: 20
+title: "Hướng dẫn PVP Gears"
+linkTitle: "PVP Gears"
 menu:
   main:
-    weight: 20
+    weight: 19
 ---
 
 {{% pageinfo %}}

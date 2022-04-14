@@ -1,4 +1,4 @@
-baseURL = "https://wiki.palexy.com/"
+baseURL = ""
 title = "Elsword VN PVP Guide"
 
 enableRobotsTXT = true
@@ -10,8 +10,8 @@ theme = ["elsword"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/vi"
+defaultContentLanguage = "vi"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -52,18 +52,18 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.en]
-title = "Palexy"
-description = "Palexy documentation site"
-languageName ="English"
-# Weight used for sorting.
-weight = 1
+# [languages.en]
+# title = "Palexy"
+# description = "Palexy documentation site"
+# languageName ="English"
+# # Weight used for sorting.
+# weight = 1
 # Uncomment for Vietnamese
-#[languages.vi]
-#title = "Palexy"
-#description = "Trang tài liệu của Palexy"
-#languageName ="Vietnamese"
-#contentDir = "content/vi"
+[languages.vi]
+title = "Elsword PVP Guide"
+description = "Hướng dẫn PVP Elsword"
+languageName ="Vietnamese"
+contentDir = "content/vi"
 
 [markup]
   [markup.goldmark]
@@ -179,3 +179,8 @@ enable = false
 # 	icon = "fa fa-envelope"
 #         desc = "Discuss development issues around the project"
 
+[[menu.main]]
+name = "Community"
+weight = 50
+url = "https://discord.gg/JFGeN9KPDu"
+post = "<i class='fab fa-discord' style='font-size:24px; vertical-align:middle; padding-left:5px'></i>"
