@@ -1,10 +1,10 @@
 baseURL = "https://wiki.palexy.com/"
-title = "Palexy"
+title = "Elsword VN PVP Guide"
 
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["palexy"]
+theme = ["elsword"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
