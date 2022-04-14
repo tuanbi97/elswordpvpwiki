@@ -1,0 +1,10 @@
+{
+  "name": "palexywiki",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1"
+  }
+}

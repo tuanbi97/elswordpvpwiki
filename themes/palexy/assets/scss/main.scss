@@ -1,0 +1,95 @@
+@import "support/functions";
+@import "variables_project";
+@import "variables";
+@import "support/mixins";
+
+@import "../vendor/bootstrap/scss/bootstrap";
+
+@import "../vendor/Font-Awesome/scss/fontawesome.scss";
+@import "../vendor/Font-Awesome/scss/solid.scss";
+@import "../vendor/Font-Awesome/scss/brands.scss";
+
+@import "support/utilities";
+@import "colors";
+@import "boxes";
+@import "blog";
+@import "code";
+@import "nav";
+@import "sidebar-tree";
+@import "sidebar-toc";
+@import "buttons";
+@import "breadcrumb";
+@import "alerts";
+@import "content";
+@import "search";
+@import "main-container";
+@import "blocks/blocks";
+@import "section-index";
+@import "pageinfo";
+
+@if $td-enable-google-fonts {
+    @import url($web-font-path);
+}
+
+footer {
+    min-height: 150px;
+
+    @include media-breakpoint-down(md) {
+         min-height: 200px;
+    }
+}
+
+// Adjust anchors vs the fixed menu.
+@include media-breakpoint-up(md) {
+    .td-offset-anchor:target {
+        display: block;
+        position: relative;
+        top: -4rem;
+        visibility: hidden;
+    }
+
+    h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
+        display: block;
+        content: " ";
+        margin-top: -5rem;
+        height: 5rem;
+        visibility: hidden;
+    }
+}
+
+@import "styles_project";
+
+.wiki-site-title {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: $font-weight-light;
+    letter-spacing: 0.4px;
+    font-size: 48px;
+    color: $black;
+
+    @include media-breakpoint-down(md) {
+        font-size: 36px;
+   }
+}
+
+.wiki-site-slogan {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+
+    @include media-breakpoint-down(md) {
+        font-size: 32px;
+   }
+}
+
+.wiki-site-description {
+    text-align: left;
+    font-family: $font-family-base;
+    font-weight: $font-weight-normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.wiki-site-read-btn {
+    text-align: left;
+    
+}

@@ -1,0 +1,25 @@
+// Breadcrumb
+
+.breadcrumb {
+	background: none;
+	padding-left: 0;
+	padding-top: 0;
+}
+
+.breadcrumb-item {
+	color: #5f6368;
+  
+	> a {
+	  font-size: 13px;
+	  font-weight: $font-weight-normal;
+	  color: #5f6368;
+	  transition-property: color;
+	  transition-duration: 0.2s;
+	  transition-timing-function: ease;
+	  transition-delay: 0s;
+	}
+  
+	> a:hover {
+	  color: $blue-primary;
+	}
+  }
