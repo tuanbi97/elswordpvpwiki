@@ -124,4 +124,41 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/WT3pyT_W-y0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>Beginner_guide: Nguyên lý PVP</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/workflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/workflow/</guid><description>
+&lt;h2 id="quy-trình-trận-đấu">Quy trình trận đấu&lt;/h2>
+&lt;p>Để tránh trường hợp không biết làm gì khi vào trận đấu, sau đây là sơ đồ những tình huống chắc chắn sẽ gặp trong 1 trận đấu.&lt;/p>
+&lt;p>&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/pvpworkflow.png" alt="">&lt;/p>
+&lt;p>Xuyên suốt trận đầu sẽ xoay quanh 2 vai trò chủ đạo: &lt;code>Attacker&lt;/code> (người tấn công), &lt;code>Defender&lt;/code> (người phòng thủ). Đôi lúc bạn là attacker, đôi lúc bạn là defender.&lt;/p>
+&lt;p>Win hay lose tùy thuộc vào chiến lược và lựa chọn của bạn khi đang đóng vai trò nào. Sau đây là giải thích sơ đồ dựa trên 1v1 mode:&lt;/p>
+&lt;p>Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái &lt;code>Attacker&lt;/code>. Cả 2 tìm cách để bắt được đối phương. Để bắt được đối phương cả 2 cần vận dụng:&lt;/p>
+&lt;ul>
+&lt;li>Stepping: Dùng kỹ năng di chuyển để bắt đối phương.&lt;/li>
+&lt;li>Reading: Đọc vị đối thủ&lt;/li>
+&lt;li>Footsies: Giữ khoảng cách và nhử mồi đối thủ.&lt;/li>
+&lt;li>Skill chaining, Skill trading: Khoảng 30 giây đầu, Force skill và các skill active được dùng chủ yếu. Sau khi cả 2 đã có nhiều tài nguyên thì sẽ bắt đầu sử dụng các chain có freeze frames, I-frames, hoặc super active để bắt đối thủ.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Attacker&lt;/strong>: Ngay sau khi bắt được đối thủ, bạn ngay lập tức combo để giành ưu thế. Các loại combo có thể sử dụng:&lt;/p>
+&lt;ul>
+&lt;li>Combo damage: Chuỗi skill gây sát thương lớn. Ép đối phương MP break.&lt;/li>
+&lt;li>Combo gain MP: Thông thường đầu trận sẽ dùng các combo gain MP để chiếm ưu thế. Từ đó setup Oki để re-catch khi đối thủ vừa ngồi dậy sau Knockdown.&lt;/li>
+&lt;li>Infinite combo: Sử dụng combo này để ép đối thủ MP break. Chú ý nếu damage bạn quá nhỏ sẽ feed MP cho đối thủ.&lt;/li>
+&lt;li>One shot: Bạn có nhiều tài nguyên và gear bạn đủ mạnh. Bắn phát chết luôn.&lt;/li>
+&lt;li>Combo burn MP: Combo để hút MP đối thủ.&lt;/li>
+&lt;/ul>
+&lt;p>Ngay sau khi đối thủ đứng dậy sau Knockdown. &lt;code>Attacker&lt;/code> nên dùng Oki nếu có thể:&lt;/p>
+&lt;ul>
+&lt;li>Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để re-catch, &amp;hellip;. Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Techniques&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Defender&lt;/strong>: Sau khi bạn bị đối phương bắt được. Các option có thể lựa chọn:&lt;/p>
+&lt;ul>
+&lt;li>Tank: Bạn có thể đứng chịu đòn. Khi bị ăn hành sẽ hồi MP và Awakening Orb. Tuy nhiên, nếu thấy đối phương damage quá to thì nên break combo sớm.&lt;/li>
+&lt;li>Break combo: Dùng MP break, Escape skill để thoát combo. May mắn thì đối phương drop combo giữa chừng hoặc bị Knockdown.&lt;/li>
+&lt;/ul>
+&lt;p>Chú ý sau khi bạn ngồi dậy sau KD thì có khả năng đối phương sẽ dùng Oki để re-catch. Hãy dùng tất cả kỹ năng đã biết đế thoát nhé.&lt;/p>
+&lt;p>Trong 2v2 hoặc 3v3 thì những tình huống khó xử hơn sẽ xảy ra. Tuy nhiên, vẫn sẽ tuân theo quy tắc trên và chỉ khác về cách áp dụng.&lt;/p>
+&lt;h2 id="sau-khi-đọc-xong">Sau khi đọc xong&lt;/h2>
+&lt;p>Điều quan trọng sau khi đọc xong là phải áp dụng nó như thế nào. Vì vậy cho nên:&lt;/p>
+&lt;ul>
+&lt;li>Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Techniques&lt;/a> nhé.&lt;/li>
+&lt;li>Kể từ giờ, mỗi khi xem video pvp trên youtube, hãy chú ý xem &lt;code>Attacker&lt;/code>: Okizeme, Combo, Reading, Footsies, &amp;hellip;, &lt;code>Defender&lt;/code>: Break combo, Tank, &amp;hellip; Học hỏi từ những người giỏi nhất và áp dụng cho mình nhé.&lt;/li>
+&lt;/ul></description></item></channel></rss>
