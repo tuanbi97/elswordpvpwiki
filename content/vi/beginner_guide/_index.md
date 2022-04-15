@@ -16,6 +16,6 @@ Tài liệu này được tài trợ bởi những pvp players có kinh nghiệm
 
 Chân thành cảm ơn các bạn đã đóng góp. Big respect!.
 
-![](/beginner_guide/elsword_welcome.jpg)
+![](/elswordpvpwiki/beginner_guide/elsword_welcome.jpg)
 
 ## Hãy sẵn sàng chúng ta bắt đầu nhé
