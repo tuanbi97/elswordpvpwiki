@@ -1,4 +1,7 @@
 {{ $original := .Page.Resources.GetMatch (printf "**%s*" (.Get 0)) }}
+<div>
+	{{ $original }}
+</div>
 {{ $command := .Get 1 }}
 {{ $options := .Get 2 }}
 {{ if eq $command "Fit"}}
