@@ -82,7 +82,42 @@ Luyện được cái này thì hơi khó, chỉ có **tích lũy bằng kinh ng
 
 ## Skill chaining
 
-## SKill trading
+Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Mục đích chính:
+- Combo damage cực mạnh.
+- Kéo dài freeze frames để bắt đối thủ.
+- Kéo dài super armor để không bị hitstun.
+- Kéo dài I-frames để không nhận damage.
+
+Video examples cho từng loại: 
+
+## SKill trading (Trao đổi chiêu thức)
+
+Skill trading xảy ra khi cả 2 đổi thủ đều sử dụng skill chaining để cố gắng bắt đối phương. Để có ưu thế hơn ta phải tối ưu được lượng mana gain được lượng mana sử dụng, lượng damage nhận được và gây ra, độ dài của chuỗi skill chaining càng dài càng tốt.
+
+Một số lưu ý:
+- **MP Gain**: Sử dụng các skill có tỉ lệ tăng MP cao giúp hồi MP càng nhiều càng tốt.
+- **MP sử dụng**: Tùy trường hợp có thể dùng các skill ít MP để tiết kiệm khi trade skills với đối thủ.
+- **Escape**: Khi có cảm giác không đủ khả năng để bắt đối thủ khi trading thì cần sử dụng ngay các skills escape:
+  - Force skill Obtenebration
+  - Hyper acceleration + up
+  - Skill của character (Ví dụ: Jet jump của CA)
+- **Skill có khả năng hút**: Khả năng bắt được đối thủ cao.
+- **Né skill có khả năng hút**: 
+  - Nếu bạn đang trong trạng thái super armor thì tuyệt vời: Dùng command của nhân vật để chạy ra.
+  - Sử dụng Force skill Obtenebration.
+  - Sử dụng skill có I-Frames nếu có thể.
+
+Ví dụ: CC (Comet Crusader) cố găng sử dụng skill chains để thoát khỏi 2 thằng NI (Nova Imperator) cũng đang dùng skill chains để bắt đối thủ. Tuy nhiên, cuối cùng vẫn dính hitstun.
+<div style="max-width: 600px">{{< youtube id="Z08RaOpfmhQ">}}</div>
+
+## Combo
+Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:
+- Combo gain MP: Dùng để hồi MP nhanh.
+- Combo sốc damage cực mạnh: Ép đối phương mana break.
+- Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát
+- One shot: Theo đúng nghĩa đen, 1 phát chết luôn.
+
+Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Techniques]({{< relref "/techniques" >}}).
 
 ## Okizeme (Oki)
 
@@ -100,4 +135,12 @@ Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn c�
 
 Video examples
 
+
 ## Mana break
+
+Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì có thể đối thủ sẽ bắt lại được.
+
+Cách dùng: Khi có hơn 100 MP. Nhấn giữ `Z` hoặc `X`. Thanh màu vàng sẽ tăng dần trên thanh MP. Dính hit thì mình sẽ mất mất toàn bộ MP trên thanh màu vàng và Knockdown ngay lập tức.
+
+Video hướng dẫn:
+<div style="max-width: 600px">{{< youtube id="WT3pyT_W-y0">}}</div>
