@@ -90,6 +90,20 @@ footer {
 }
 
 .wiki-site-read-btn {
-    text-align: left;
-    
+    text-align: left; 
+}
+
+.homepage-card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: flex; flex-direction: column; justify-content: space-between;
+}
+
+.homepage-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-container {
+    padding: 16px 16px;
 }
