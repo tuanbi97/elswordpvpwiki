@@ -59,7 +59,51 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;p>Kỹ thuật này đòi hỏi phải thông thạo được kĩ năng đối phương. Biết người biết ta trăm trận trăm thắng.&lt;/p>
 &lt;p>Luyện được cái này thì hơi khó, chỉ có &lt;strong>tích lũy bằng kinh nghiệm&lt;/strong> trận mạc thôi.&lt;/p>
 &lt;h2 id="skill-chaining">Skill chaining&lt;/h2>
-&lt;h2 id="skill-trading">SKill trading&lt;/h2>
+&lt;p>Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Mục đích chính:&lt;/p>
+&lt;ul>
+&lt;li>Combo damage cực mạnh.&lt;/li>
+&lt;li>Kéo dài freeze frames để bắt đối thủ.&lt;/li>
+&lt;li>Kéo dài super armor để không bị hitstun.&lt;/li>
+&lt;li>Kéo dài I-frames để không nhận damage.&lt;/li>
+&lt;/ul>
+&lt;p>Video examples cho từng loại:&lt;/p>
+&lt;h2 id="skill-trading-trao-đổi-chiêu-thức">SKill trading (Trao đổi chiêu thức)&lt;/h2>
+&lt;p>Skill trading xảy ra khi cả 2 đổi thủ đều sử dụng skill chaining để cố gắng bắt đối phương. Để có ưu thế hơn ta phải tối ưu được lượng mana gain được lượng mana sử dụng, lượng damage nhận được và gây ra, độ dài của chuỗi skill chaining càng dài càng tốt.&lt;/p>
+&lt;p>Một số lưu ý:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>MP Gain&lt;/strong>: Sử dụng các skill có tỉ lệ tăng MP cao giúp hồi MP càng nhiều càng tốt.&lt;/li>
+&lt;li>&lt;strong>MP sử dụng&lt;/strong>: Tùy trường hợp có thể dùng các skill ít MP để tiết kiệm khi trade skills với đối thủ.&lt;/li>
+&lt;li>&lt;strong>Escape&lt;/strong>: Khi có cảm giác không đủ khả năng để bắt đối thủ khi trading thì cần sử dụng ngay các skills escape:
+&lt;ul>
+&lt;li>Force skill Obtenebration&lt;/li>
+&lt;li>Hyper acceleration + up&lt;/li>
+&lt;li>Skill của character (Ví dụ: Jet jump của CA)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Skill có khả năng hút&lt;/strong>: Khả năng bắt được đối thủ cao.&lt;/li>
+&lt;li>&lt;strong>Né skill có khả năng hút&lt;/strong>:
+&lt;ul>
+&lt;li>Nếu bạn đang trong trạng thái super armor thì tuyệt vời: Dùng command của nhân vật để chạy ra.&lt;/li>
+&lt;li>Sử dụng Force skill Obtenebration.&lt;/li>
+&lt;li>Sử dụng skill có I-Frames nếu có thể.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Ví dụ: CC (Comet Crusader) cố găng sử dụng skill chains để thoát khỏi 2 thằng NI (Nova Imperator) cũng đang dùng skill chains để bắt đối thủ. Tuy nhiên, cuối cùng vẫn dính hitstun.&lt;/p>
+&lt;div style="max-width: 600px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Z08RaOpfmhQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="combo">Combo&lt;/h2>
+&lt;p>Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:&lt;/p>
+&lt;ul>
+&lt;li>Combo gain MP: Dùng để hồi MP nhanh.&lt;/li>
+&lt;li>Combo sốc damage cực mạnh: Ép đối phương mana break.&lt;/li>
+&lt;li>Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát&lt;/li>
+&lt;li>One shot: Theo đúng nghĩa đen, 1 phát chết luôn.&lt;/li>
+&lt;/ul>
+&lt;p>Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Techniques&lt;/a>.&lt;/p>
 &lt;h2 id="okizeme-oki">Okizeme (Oki)&lt;/h2>
 &lt;p>Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và re-catch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.&lt;/p>
 &lt;p>Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ re-catch sau KD.&lt;/p>
@@ -72,4 +116,12 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;li>Dùng skill trading để thoát khi có tài nguyên.&lt;/li>
 &lt;/ul>
 &lt;p>Video examples&lt;/p>
-&lt;h2 id="mana-break">Mana break&lt;/h2></description></item></channel></rss>
+&lt;h2 id="mana-break">Mana break&lt;/h2>
+&lt;p>Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì có thể đối thủ sẽ bắt lại được.&lt;/p>
+&lt;p>Cách dùng: Khi có hơn 100 MP. Nhấn giữ &lt;code>Z&lt;/code> hoặc &lt;code>X&lt;/code>. Thanh màu vàng sẽ tăng dần trên thanh MP. Dính hit thì mình sẽ mất mất toàn bộ MP trên thanh màu vàng và Knockdown ngay lập tức.&lt;/p>
+&lt;p>Video hướng dẫn:&lt;/p>
+&lt;div style="max-width: 600px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/WT3pyT_W-y0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
