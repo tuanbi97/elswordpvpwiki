@@ -3,10 +3,12 @@
 {{ $height := .Get "height" | default "auto"  }}
 {{ $type   := .Get "type" | default "" }} 
 {{ $row_height := .Get "row_height" | default "auto"  }}
+{{ $padding_left := .Get "padding_left" | default "auto"  }}
+{{ $padding_right := .Get "padding_right" | default "auto"  }}
 <a id="td-block-{{ .Ordinal }}" class="td-offset-anchor"></a>
 <section class="row td-box td-box--{{ $col_id }} td-box--gradient td-box--height-{{ $height }}">
 	<div class="col">
-		<div class="row {{ $type }}" style="height:{{ $row_height }}">
+		<div class="row {{ $type }}" style="height:{{ $row_height }}; padding-right:{{ $padding_right }}; padding-left:{{ $padding_left }}">
 			{{ .Inner | markdownify}}
 		</div>
 	</div>
