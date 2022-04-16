@@ -118,11 +118,11 @@ Lưu ý stat có được từ ERP chỉ tác dụng 40% vào trong pvp.
 
 ### Force Passives
 
-- Illipia’s Aura ( tăng HP )
-- Indomitable Will ( tất cả mọi hit critical khi máu xuống một mức nhất định )
-- Lighting Chain (tạo ra một lighting chain catch đối thủ)
-- El's Aspiration gây dmg khá ổn
-- Ignite ( đốt mp của đối thủ )
+- Illipia’s Aura: Hồi HP
+- Indomitable Will: tất cả mọi hit critical khi máu xuống một mức nhất định.
+- Lighting Chain: tạo ra một lighting chain catch đối thủ.
+- El's Aspiration: gây dmg khá ổn.
+- Ignite: đốt mp của đối thủ.
 
 Passive force skill set đề xuất (Tối đa 3 slots nếu có artifact)
 - Illipia’s aura, Lighting chain, Indomitable Will
@@ -136,5 +136,5 @@ Passive force skill set đề xuất (Tối đa 3 slots nếu có artifact)
 - Hyper Acceleration: Tăng tốc.
 - Obtenebration: Vào trạng thái I-frames. Miễn dịch mọi đòn đánh.
 - Thunderstorm: Stun đối thủ.
-- Elrian Clock: Vào trang thái I-frames. Miễn dịch mọi đòn đánh. Có thể ra chiêu khi đang bị đánh.
+- Elrian Clock: Vào trang thái I-frames. Miễn dịch mọi đòn đánh. Có thể ra chiêu khi đang bị hitstun.
 - Fog of Death: Tạo sương mù diện rộng, hit đầu tiên có hitstun. Giảm toàn bộ speed của đổi thủ khi ở trong sương mù.

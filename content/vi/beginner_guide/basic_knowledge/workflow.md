@@ -30,7 +30,7 @@ Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái 
 - Combo burn MP: Combo để hút MP đối thủ.
 
 Ngay sau khi đối thủ đứng dậy sau Knockdown. `Attacker` nên dùng Oki nếu có thể:
-- Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để re-catch, .... Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm [Techniques]({{< relref "/techniques" >}}).
+- Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để re-catch, .... Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm [Okizeme]({{< relref "/catching" >}}).
 
 **Defender**: Sau khi bạn bị đối phương bắt được. Các option có thể lựa chọn:
 - Tank: Bạn có thể đứng chịu đòn. Khi bị ăn hành sẽ hồi MP và Awakening Orb. Tuy nhiên, nếu thấy đối phương damage quá to thì nên break combo sớm.
@@ -44,5 +44,5 @@ Trong 2v2 hoặc 3v3 thì những tình huống khó xử hơn sẽ xảy ra. Tu
 
 Điều quan trọng sau khi đọc xong là phải áp dụng nó như thế nào. Vì vậy cho nên:
 
-- Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục [Techniques]({{< relref "/techniques" >}}) nhé.
+- Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục [Techniques]({{< relref "/catching" >}}) nhé.
 - Kể từ giờ, mỗi khi xem video pvp trên youtube, hãy chú ý xem `Attacker`: Okizeme, Combo, Reading, Footsies, ..., `Defender`: Break combo, Tank, ... Học hỏi từ những người giỏi nhất và áp dụng cho mình nhé.

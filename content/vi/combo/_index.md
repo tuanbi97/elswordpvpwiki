@@ -1,9 +1,6 @@
 ---
-title: "Techniques"
-linkTitle: "Techniques"
-menu:
-  main:
-    weight: 21
+title: "Combo"
+linkTitle: "Combo"
 ---
 
 {{% pageinfo %}}

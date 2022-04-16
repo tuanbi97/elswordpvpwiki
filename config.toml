@@ -181,6 +181,29 @@ enable = false
 
 [[menu.main]]
 name = "Community"
-weight = 50
+weight = 30
 url = "https://discord.gg/JFGeN9KPDu"
 post = "<i class='fab fa-discord' style='font-size:24px; vertical-align:middle; padding-left:5px'></i>"
+
+[[menu.main]]
+identifier = "Techniques"
+name = "Techniques"
+weight = 20
+
+[[menu.main]]
+name = "Catching"
+parent = "Techniques"
+url = "catching"
+weight = 1
+
+[[menu.main]]
+name = "Combo"
+parent = "Techniques"
+url = "combo"
+weight = 10
+
+[[menu.main]]
+name = "Stepping"
+parent = "Techniques"
+url = "stepping"
+weight = 20

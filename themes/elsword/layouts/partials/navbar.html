@@ -1,28 +1,43 @@
-<nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+{{ $cover := and (.HasShortcode "blocks/cover") (not .Site.Params.ui.navbar_translucent_over_cover_disable) }}
+<nav class="js-navbar-scroll navbar-expand-lg navbar navbar-dark {{ if $cover}} td-navbar-cover {{ end }}flex-row td-navbar">
 	<a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
 		<div style="display: flex; flex-direction: row;">
 			<!-- <span class="navbar-logo">{{ if .Site.Params.ui.navbar_logo }}{{ with resources.Get "icons/logo.svg" }}{{ ( . | minify).Content | safeHTML }}{{ end }}{{ end }}</span> -->
 			<span class="site-title">{{ .Site.Title }}</span>
 		</div>
 	</a>
-	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_navbar" aria-controls="main_navbar" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse justify-content-end" id="main_navbar">
 		<ul class="navbar-nav mt-2 mt-lg-0">
 			{{ $p := . }}
 			{{ range .Site.Menus.main }}
-			<li class="nav-item mr-4 mb-2 mb-lg-0">
 				{{ $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
 				{{ with .Page }}
 				{{ $active = or $active ( $.IsDescendant .) }}
 				{{ end }}
+				{{ $pre := .Pre }}
+				{{ $post := .Post }}
 				{{ $url := urls.Parse .URL }}
 				{{ $baseurl := urls.Parse $.Site.Params.Baseurl }}
-				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}"
-				 {{ if ne $url.Host $baseurl.Host }} target="_blank" {{ end }}>
-				 <span> {{ .Pre }} </span>
-				 <span {{if $active }} class="active" {{end}}>{{ .Name }}</span>
-				 <span> {{ .Post }} </span>
-				</a>
-			</li>
+				{{ if .HasChildren }}
+				<li class="nav-item dropdown mr-4 mb-2 mb-lg-0">
+					<a class="nav-link {{if $active }} active{{end}} dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						{{ .Name }}
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					{{ range .Children  }}
+						{{ $childrenurl := urls.Parse .URL }}
+						<a class="dropdown-item" href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}" {{ if ne $childrenurl.Host $baseurl.Host }}target="_blank" {{ end }}>{{ .Name }}</a>
+					{{ end }}
+					</div>
+				</li>
+				{{ else }}
+				<li class="nav-item mr-4 mb-2 mb-lg-0">
+					<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}" {{ if ne $url.Host $baseurl.Host }}target="_blank" {{ end }}>{{ with .Pre}}{{ $pre }}{{ end }}<span{{if $active }} class="active"{{end}}>{{ .Name }}</span>{{ with .Post}}{{ $post }}{{ end }}</a>
+				</li>
+				{{ end }}
 			{{ end }}
 			{{ if .Site.Params.versions }}
 			<li class="nav-item dropdown d-none d-lg-block">
@@ -34,7 +49,7 @@
 				{{ partial "navbar-lang-selector.html" . }}
 			</li>
 			{{ end }}
+			<li class="nav-item nav-search-item">{{ partial "search-input.html" . }}</li>
 		</ul>
 	</div>
-	<div class="navbar-nav d-none d-lg-block">{{ partial "search-input.html" . }}</div>
 </nav>
