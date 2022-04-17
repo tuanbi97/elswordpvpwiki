@@ -121,11 +121,11 @@ Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Co
 
 ## Okizeme (Oki)
 
-Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và re-catch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.
+Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và recatch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.
 
-Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ re-catch sau KD.
+Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.
 
-Mỗi character đều có vài Oki tỉ lệ re-catch cao để setup. Tìm hiểu thêm ở mục [Catching]({{< relref "/catching" >}}).
+Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục [Catching]({{< relref "/catching" >}}).
 
 Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó: 
 - Skill dodge/evasion. 

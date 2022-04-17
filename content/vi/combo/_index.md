@@ -3,15 +3,12 @@ title: "Combo"
 linkTitle: "Combo"
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:
+- Combo gain MP: Dùng để hồi MP nhanh.
+- Combo sốc damage cực mạnh: Ép đối phương mana break.
+- Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát.
+- One shot: Theo đúng nghĩa đen, 1 phát chết luôn.
 
-
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
-
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
-
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Các loại khác:
+- Combo burn MP: Cái này thì tùy class mới làm được. Đối thủ không thể hồi đủ MP để Mana break.
+- Flexin combo: Chủ yếu thể hiện kỹ năng múa chứ độ hiệu quả thì hên xui.

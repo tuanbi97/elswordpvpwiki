@@ -200,10 +200,10 @@ weight = 1
 name = "Combo"
 parent = "Techniques"
 url = "combo"
-weight = 10
+weight = 3
 
 [[menu.main]]
 name = "Stepping"
 parent = "Techniques"
 url = "stepping"
-weight = 20
+weight = 2

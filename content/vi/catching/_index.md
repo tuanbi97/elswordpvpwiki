@@ -29,8 +29,9 @@ Về việc sử dụng command Z, X để catching thì người ta sẽ kết 
   - Obtenebration: Lợi dụng I-frames để tiếp cận đối thủ. Video example
 - Awakening: Có freeze frames, tiếp cận nhanh đối thủ trong freeze frames để catch. Video example.
 - SKill chains phổ biến:
-  - Hyper acceleration + Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
-  - Hauting spirit + Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
+  - Hyper acceleration > Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
+  - Hauting spirit > Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
+  - Hauting spirit > Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.
 - Okizeme phổ biến:
   - Hauting Spirit: Dùng Hauting  Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example
 
