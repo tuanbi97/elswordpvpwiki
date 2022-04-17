@@ -105,9 +105,9 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;/ul>
 &lt;p>Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/">Combo&lt;/a>.&lt;/p>
 &lt;h2 id="okizeme-oki">Okizeme (Oki)&lt;/h2>
-&lt;p>Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và re-catch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.&lt;/p>
-&lt;p>Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ re-catch sau KD.&lt;/p>
-&lt;p>Mỗi character đều có vài Oki tỉ lệ re-catch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Catching&lt;/a>.&lt;/p>
+&lt;p>Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và recatch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.&lt;/p>
+&lt;p>Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.&lt;/p>
+&lt;p>Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Catching&lt;/a>.&lt;/p>
 &lt;p>Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó:&lt;/p>
 &lt;ul>
 &lt;li>Skill dodge/evasion.&lt;/li>
@@ -140,21 +140,21 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;p>&lt;strong>Attacker&lt;/strong>: Ngay sau khi bắt được đối thủ, bạn ngay lập tức combo để giành ưu thế. Các loại combo có thể sử dụng:&lt;/p>
 &lt;ul>
 &lt;li>Combo damage: Chuỗi skill gây sát thương lớn. Ép đối phương MP break.&lt;/li>
-&lt;li>Combo gain MP: Thông thường đầu trận sẽ dùng các combo gain MP để chiếm ưu thế. Từ đó setup Oki để re-catch khi đối thủ vừa ngồi dậy sau Knockdown.&lt;/li>
+&lt;li>Combo gain MP: Thông thường đầu trận sẽ dùng các combo gain MP để chiếm ưu thế. Từ đó setup Oki để recatch khi đối thủ vừa ngồi dậy sau Knockdown.&lt;/li>
 &lt;li>Infinite combo: Sử dụng combo này để ép đối thủ MP break. Chú ý nếu damage bạn quá nhỏ sẽ feed MP cho đối thủ.&lt;/li>
 &lt;li>One shot: Bạn có nhiều tài nguyên và gear bạn đủ mạnh. Bắn phát chết luôn.&lt;/li>
 &lt;li>Combo burn MP: Combo để hút MP đối thủ.&lt;/li>
 &lt;/ul>
 &lt;p>Ngay sau khi đối thủ đứng dậy sau Knockdown. &lt;code>Attacker&lt;/code> nên dùng Oki nếu có thể:&lt;/p>
 &lt;ul>
-&lt;li>Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để re-catch, &amp;hellip;. Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Okizeme&lt;/a>.&lt;/li>
+&lt;li>Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để recatch, &amp;hellip;. Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Okizeme&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Defender&lt;/strong>: Sau khi bạn bị đối phương bắt được. Các option có thể lựa chọn:&lt;/p>
 &lt;ul>
 &lt;li>Tank: Bạn có thể đứng chịu đòn. Khi bị ăn hành sẽ hồi MP và Awakening Orb. Tuy nhiên, nếu thấy đối phương damage quá to thì nên break combo sớm.&lt;/li>
 &lt;li>Break combo: Dùng MP break, Escape skill để thoát combo. May mắn thì đối phương drop combo giữa chừng hoặc bị Knockdown.&lt;/li>
 &lt;/ul>
-&lt;p>Chú ý sau khi bạn ngồi dậy sau KD thì có khả năng đối phương sẽ dùng Oki để re-catch. Hãy dùng tất cả kỹ năng đã biết đế thoát nhé.&lt;/p>
+&lt;p>Chú ý sau khi bạn ngồi dậy sau KD thì có khả năng đối phương sẽ dùng Oki để recatch. Hãy dùng tất cả kỹ năng đã biết đế thoát nhé.&lt;/p>
 &lt;p>Trong 2v2 hoặc 3v3 thì những tình huống khó xử hơn sẽ xảy ra. Tuy nhiên, vẫn sẽ tuân theo quy tắc trên và chỉ khác về cách áp dụng.&lt;/p>
 &lt;h2 id="sau-khi-đọc-xong">Sau khi đọc xong&lt;/h2>
 &lt;p>Điều quan trọng sau khi đọc xong là phải áp dụng nó như thế nào. Vì vậy cho nên:&lt;/p>
