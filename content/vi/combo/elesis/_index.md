@@ -8,7 +8,7 @@ description: >
 
 Khi chơi Elesis chú ý thanh Chilvary
 
-![](/elswordpvpwiki/combo/elesis/chivalry.PNG)
+{{< skill id="chivalry" name="Chivalry System" >}}
 
 Thanh chilvary có 2 modes, tùy loại combo chuyển mode thích hợp:
 - Gale mode (Màu xanh): 
@@ -24,8 +24,7 @@ Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi t
 
 ## Combo gain MP
 
-Nhớ bật chilvary mode lên
-**Z loop**, **ZZZ loop**
+**Z loop**, **ZZZ loop**: Bật Gale mode trước khi dùng.
 
 ## Infinite combo
 

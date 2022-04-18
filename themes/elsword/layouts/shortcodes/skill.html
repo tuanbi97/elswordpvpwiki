@@ -1,0 +1,4 @@
+{{ $skill_name := (.Get "id")}}
+{{ $image := resources.GetMatch (printf "**%s*" $skill_name) }}
+{{ $name := .Get "name" | default "" }}
+<img data-toggle="tooltip" data-placement="top" title="{{ $name }}" src="{{ $image.RelPermalink }}" alt="">
