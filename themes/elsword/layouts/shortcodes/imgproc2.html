@@ -1,0 +1,2 @@
+{{ $image := resources.GetMatch (printf "**%s*" (.Get 0)) }}
+<img src="{{ $image.RelPermalink }}">
