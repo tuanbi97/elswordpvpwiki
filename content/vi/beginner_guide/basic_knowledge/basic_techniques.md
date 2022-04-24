@@ -1,7 +1,7 @@
 ---
 title: "Kỹ thuật cơ bản"
 linkTitle: "Kỹ thuật cơ bản"
-weight: 2.5
+weight: 3
 description: >
   Các kỹ thuật cơ bản cho người bắt đầu
 ---
