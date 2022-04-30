@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn cho beginners"
-linkTitle: "Beginner's guide"
+title: "Hướng dẫn chung"
+linkTitle: "General guide"
 menu:
   main:
     weight: 20

@@ -67,7 +67,8 @@
         {{ range $pages }}
         {{ if .IsPage }}
         {{ $mid := printf "m-%s" (.RelPermalink | anchorize) }}
-        {{ $active := eq . $p }}
+        {{ $active := eq . $p }}     
+        <div>asdasd{{ $p }}</div>
         <a class="td-sidebar-link td-sidebar-link__page {{ if and (not $shouldDelayActive) $active }} active{{ end }}" id="{{ $mid }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{ else }}
         {{ template "section-tree-nav-section" (dict "page" $p "section" .) }}

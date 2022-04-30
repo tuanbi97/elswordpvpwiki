@@ -16,7 +16,7 @@ Nguyên lý catching được đa số mọi người sử dụng:
 
 Còn nếu mà bạn đánh trùm quá rồi, đọc vị được đối thủ luôn, dùng command đơn giản mà vẫn bắt được thì mấy nguyên lý trên coi như vứt. LOL.
 
-Về việc sử dụng command Z, X để catching thì người ta sẽ kết hợp với việc stepping. Xem thêm stepping [Stepping]({{< relref "/stepping" >}})
+Về việc sử dụng command Z, X để catching thì người ta sẽ kết hợp với việc stepping. Xem thêm [Stepping]({{< relref "/techniques" >}})
 
 ## Một số cách bắt người chung cho mọi character
 - Dùng Force Skills:
