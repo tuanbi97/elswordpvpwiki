@@ -1,6 +1,5 @@
 ---
-title: "Combo"
-linkTitle: "Combo"
+hidden: true
 ---
 
 Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:

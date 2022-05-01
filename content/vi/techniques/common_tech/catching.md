@@ -1,8 +1,5 @@
 ---
-title: "Catching"
-linkTitle: "Catching"
-description: >
-  Tổng hợp những cách để bắt đối phương
+hidden: true
 ---
 
 ## Tổng quan
@@ -28,11 +25,9 @@ Về việc sử dụng command Z, X để catching thì người ta sẽ kết 
   - {{< skill id="shattered_earth" name="Shattered Earth">}} Shattered Earth: Force skill diện rộng. Video example
   - {{< skill id="obtenebration" name="Obtenebration">}} Obtenebration: Lợi dụng I-frames để tiếp cận đối thủ. Video example
 - Awakening: Có freeze frames, tiếp cận nhanh đối thủ trong freeze frames để catch. Video example.
-- SKill chains phổ biến:
+- Skill chains phổ biến:
   - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} Hyper acceleration > Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
   - {{< skill id="hauting_spirit" name="Haunting Spirit">}} Haunting spirit > Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
   - {{< skill id="hauting_spirit" name="Haunting Spirit">}} Haunting spirit > Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.
-- Okizeme phổ biến:
-  - {{< skill id="hauting_spirit" name="Haunting Spirit">}}: Dùng Hauting  Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example
 
 Phần tiếp theo sẽ tổng hợp các skill chains và okizeme của từng class nhân vật.

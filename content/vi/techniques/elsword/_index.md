@@ -1,7 +1,7 @@
 ---
 title: "Elsword"
 linkTitle: "Elsword"
-weight: 1
+weight: 2
 description: >
   Tổng hợp các techniques chung của class Elsword.
 ---

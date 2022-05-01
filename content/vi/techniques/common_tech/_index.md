@@ -1,6 +1,6 @@
 ---
-title: "Empire Sword"
-linkTitle: "Empire Sword"
+title: "Kỹ thuật chung"
+linkTitle: "Kỹ thuật chung"
 weight: 1
 ---
 

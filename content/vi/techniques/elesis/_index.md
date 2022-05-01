@@ -1,7 +1,7 @@
 ---
 title: "Elesis"
 linkTitle: "Elesis"
-weight: 2
+weight: 3
 description: >
   Tổng hợp các techniques chung của class Elesis.
 ---

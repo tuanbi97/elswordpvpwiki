@@ -1,7 +1,5 @@
 ---
-title: "Empire Sword"
-linkTitle: "Empire Sword"
-weight: 1
+hidden: true
 ---
 
 ## Skill thông dụng
@@ -32,13 +30,3 @@ Sau Active chains bạn có thể liên kết tiếp thêm Super Active khác ho
 
 **Escape chains**: Dùng sau khi break combo đối phương.
 - {{< skill id="roll_and_dodge" name="Roll and Dodge" >}} > {{< skill id="critical_dive" name="Critical Dive">}}
-
-## Okizeme
-
-Thường sử dụng các skill tầm rộng hoặc có Super Armor thể recatch đối phương
-
-- {{< skill id="juggernaut_buster" name="Juggernaut Buster">}} Juggernaut Buster chains: Do skill này có hút nên tỉ lệ Oki thành công cực cao. Vừa có thể dùng để catch vừa có thể dùng Oki.
-- {{< skill id="war_prelude" name="War Prelude">}}
-- {{< skill id="sonic_blade" name="Sonic Blade">}}
-- {{< skill id="provoke" name="Provoke" >}}
-- Dash xx
