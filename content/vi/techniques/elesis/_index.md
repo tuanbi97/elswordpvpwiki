@@ -3,7 +3,7 @@ title: "Elesis"
 linkTitle: "Elesis"
 weight: 2
 description: >
-  Tổng hợp các step của class Elesis.
+  Tổng hợp các techniques chung của class Elesis.
 ---
 
 {{< tabs name="techniques" >}}

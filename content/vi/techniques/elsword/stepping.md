@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 ## Basic steps
 
 ### Spring step
