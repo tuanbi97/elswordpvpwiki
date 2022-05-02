@@ -52,41 +52,41 @@
 &lt;/div>
 &lt;h2 id="stepping-kỹ-thuật-di-chuyển">Stepping (Kỹ thuật di chuyển)&lt;/h2>
 &lt;p>Stepping hay còn gọi là kỹ thuật di chuyển. Trong Elsword, map PVP thường rộng có nhiều khoảng trống để di chuyển không như các fighting game khác. Vì vậy, di chuyển tốt trong map là một lợi thế lớn.&lt;/p>
+&lt;h3 id="essential">Essential&lt;/h3>
 &lt;p>Sau đây là các kỹ thuật stepping cơ bản. Các kỹ thuật này không quá phức tạp nhưng rất cần thiết trong trận chiến.&lt;/p>
-&lt;h3 id="fast-fall">Fast fall&lt;/h3>
-&lt;p>Có thể thực hiện ở mọi nhân vật dùng để rớt nhanh xuống đất. Do đa phần các kĩ năng đều thực hiện dưới mặt đặt. Giữ nhân vật trên mặt đất là 1 lợi thế.&lt;/p>
-&lt;p>Phương pháp:&lt;/p>
+&lt;h4 id="fast-fall">Fast fall&lt;/h4>
+&lt;p>Có thể thực hiện với mọi nhân vật dùng để đáp nhanh xuống đất. Do đa số các kỹ năng đều được thực hiện dưới mặt đặt. Nên việc giữ nhân vật ở trên mặt đất là một lợi thế.&lt;/p>
+&lt;p>Input thông dụng:&lt;/p>
 &lt;ul>
-&lt;li>Bấm xuống khi đang ở trên không&lt;/li>
-&lt;li>Nhấn xuống khi đang dash (chạy) ở trên không&lt;/li>
+&lt;li>\( \uparrow \downarrow \)&lt;/li>
+&lt;li>\( \rightarrow \rightarrow \uparrow \downarrow \)&lt;/li>
+&lt;li>\( \uparrow \rightarrow \rightarrow \downarrow \)&lt;/li>
 &lt;/ul>
-&lt;p>Input thông dụng: &lt;code>^v&lt;/code> , &lt;code>&amp;gt;&amp;gt;^v&lt;/code> , &lt;code>^&amp;gt;&amp;gt;v&lt;/code>&lt;/p>
-&lt;h3 id="high-jump">High jump&lt;/h3>
-&lt;p>Nhảy cao hơn bình thưởng. Tùy nhân vật có thể nhảy 2 bậc platforms hoặc 3 bậc platforms. Tiếp cận nhanh đối thủ.
-Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đang dash jump, điều đó sẽ khiến bạn nhảy cao hơn.&lt;/p>
-&lt;p>Input thông dụng: &lt;code>&amp;gt;&amp;gt;^&amp;lt;&lt;/code>&lt;/p>
-&lt;p>Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
+&lt;h4 id="high-jump">High jump&lt;/h4>
+&lt;p>Nhảy cao hơn bình thường. Tùy từng nhân vật có thể nhảy được 2 hoặc 3 bậc platforms. Kỹ năng này giúp bạn tiếp cận đối phương ở nơi cao hơn vị trí của bạn i.e platform, ở trên không, etc&amp;hellip;&lt;/p>
+&lt;p>Input thông dụng: \( \rightarrow \rightarrow \uparrow \leftarrow \)&lt;/p>
+&lt;p>Tùy character sẽ có các cách high jump khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/J_r1Qk73Vv8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
-&lt;h3 id="spring-step">Spring step&lt;/h3>
-&lt;p>Spring step là kĩ thuật di chuyển nhanh gần mặt đất. Nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Kĩ thuật này rất thông dụng để tiếp cận đối thủ.&lt;/p>
-&lt;p>Input thông dụng: &lt;code>dash repeat ^v&lt;/code>&lt;/p>
-&lt;p>Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
+&lt;h4 id="spring-step">Spring step&lt;/h4>
+&lt;p>Spring step là kỹ thuật di chuyển nhanh gần mặt đất. Khi sử dụng kỹ thuật, nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Đây là kỹ thuật rất thông dụng dùng tiếp cận đối thủ phương.&lt;/p>
+&lt;p>Input thông dụng: \( \text{hold dash} \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow\)&lt;/p>
+&lt;p>Tùy character sẽ có các cách spring step khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/BFync0r_rM8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
-&lt;h3 id="những-step-nâng-cao">Những step nâng cao&lt;/h3>
+&lt;h3 id="advanced">Advanced&lt;/h3>
 &lt;ul>
 &lt;li>Circle step&lt;/li>
 &lt;li>V step&lt;/li>
 &lt;li>Platform latch&lt;/li>
 &lt;li>Hinpoppo step&lt;/li>
-&lt;li>Platform sweep: Sử dụng để gain MP hoặc gây command damage sử dụng ở hầu hết các character cầm kiếm.&lt;/li>
+&lt;li>Platform sweep&lt;/li>
 &lt;li>Air slide: Một trong những step được người đời kính nể. Kiểu như vào sparring/arena mà làm trò này thì khá chắc chắn là bọn nó sẽ WOW như đúng rồi.&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
 &lt;/ul>
@@ -107,12 +107,12 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;p>Kỹ thuật này đòi hỏi phải thông thạo được kĩ năng đối phương. Biết người biết ta trăm trận trăm thắng.&lt;/p>
 &lt;p>Luyện được cái này thì hơi khó, chỉ có &lt;strong>tích lũy bằng kinh nghiệm&lt;/strong> trận mạc thôi.&lt;/p>
 &lt;h2 id="skill-chaining">Skill chaining&lt;/h2>
-&lt;p>Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Một số mục đích chính:&lt;/p>
+&lt;p>Sử dụng liên tiếp các skills theo một thứ tự thích hợp để đạt được một số mục đích như:&lt;/p>
 &lt;ul>
-&lt;li>Combo damage cực mạnh.&lt;/li>
-&lt;li>Kéo dài freeze frames để: bắt đối thủ, kéo hết buff của đối thủ (E.g. Super armor, I-frames)&lt;/li>
+&lt;li>Combo sốc damage cực mạnh.&lt;/li>
+&lt;li>Kéo dài freeze frames tăng tầm bắt, kéo hết buff&lt;span data-toggle="tooltip" data-placement="top" title="E.g. Super armor, I-frames" style="color: red">*&lt;/span> của đối phương.&lt;/li>
 &lt;li>Kéo dài super armor để không bị hitstun.&lt;/li>
-&lt;li>Kéo dài I-frames để không nhận damage.&lt;/li>
+&lt;li>Kéo dài I-frames để không bị hitstun, không bị nhận damage.&lt;/li>
 &lt;/ul>
 &lt;p>Video examples cho từng loại:&lt;/p>
 &lt;h2 id="skill-trading-trao-đổi-chiêu-thức">Skill trading (Trao đổi chiêu thức)&lt;/h2>
@@ -144,18 +144,23 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;/div>
 &lt;/div>
 &lt;h2 id="combo">Combo&lt;/h2>
-&lt;p>Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:&lt;/p>
+&lt;p>Sau khi bắt được đối thủ thì đây là lúc thể hiện khả năng combo của bạn. Combo được chia thành các loại thông dụng sau:&lt;/p>
 &lt;ul>
 &lt;li>Combo gain MP: Dùng để hồi MP nhanh.&lt;/li>
-&lt;li>Combo sốc damage cực mạnh: Ép đối phương mana break.&lt;/li>
-&lt;li>Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát&lt;/li>
-&lt;li>One shot: Theo đúng nghĩa đen, 1 phát chết luôn.&lt;/li>
+&lt;li>Combo sốc damage: Ép đối phương mana break.&lt;/li>
+&lt;li>Infinite combo: Combo làm đối thủ không thể KD. Ép đối phương mana break để thoát.&lt;/li>
+&lt;/ul>
+&lt;p>Một số loại combo khác:&lt;/p>
+&lt;ul>
+&lt;li>Combo burn MP.&lt;/li>
+&lt;li>Combo phá Mana break timing.&lt;/li>
+&lt;li>Combo cố tình để drop/leak.&lt;/li>
 &lt;/ul>
 &lt;p>Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#combo">Combo&lt;/a>.&lt;/p>
 &lt;h2 id="okizeme-oki">Okizeme (Oki)&lt;/h2>
-&lt;p>Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và recatch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.&lt;/p>
+&lt;p>Okizeme(Oki) là một thuật ngữ trong fighting game chỉ việc gây áp lực lên đối phương khi đối phương vừa đứng dậy sau Knockdown(KD).&lt;/p>
 &lt;p>Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.&lt;/p>
-&lt;p>Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#catching">Catching&lt;/a>.&lt;/p>
+&lt;p>Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#okizeme">Okizeme&lt;/a>.&lt;/p>
 &lt;p>Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó:&lt;/p>
 &lt;ul>
 &lt;li>Skill dodge/evasion.&lt;/li>
@@ -165,8 +170,8 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;/ul>
 &lt;p>Video examples&lt;/p>
 &lt;h2 id="mana-break">Mana break&lt;/h2>
-&lt;p>Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì có thể đối thủ sẽ bắt lại được.&lt;/p>
-&lt;p>Cách dùng: Khi có hơn 100 MP. Nhấn giữ &lt;code>Z&lt;/code> hoặc &lt;code>X&lt;/code>. Thanh màu vàng sẽ tăng dần trên thanh MP. Dính hit thì mình sẽ mất mất toàn bộ MP trên thanh màu vàng và Knockdown ngay lập tức.&lt;/p>
+&lt;p>Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì đối phương sẽ có cơ hội bắt lại.&lt;/p>
+&lt;p>Cách dùng: Khi có hơn 100 MP. Nhấn giữ &lt;code>Z&lt;/code> hoặc &lt;code>X&lt;/code>. Thanh màu vàng sẽ tăng dần trên thanh MP. Khi nhận hit thì nhân vật sẽ mất toàn bộ MP trên thanh màu vàng và bị Knockdown ngay lập tức.&lt;/p>
 &lt;p>Video hướng dẫn:&lt;/p>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
