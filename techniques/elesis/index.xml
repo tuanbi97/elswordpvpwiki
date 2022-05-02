@@ -1,0 +1,193 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Elesis</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/</link><description>Recent content in Elesis on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/index.xml" rel="self" type="application/rss+xml"/><item><title>Techniques: Empire Sword</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/empire_sword/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/empire_sword/</guid><description>
+&lt;ul class="nav nav-tabs" id="techniques" role="tablist">
+&lt;li class="nav-item dropdown">&lt;a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#neutral" role="button" aria-haspopup="true" aria-expanded="false">Neutral&lt;/a>
+&lt;div class="dropdown-menu">
+&lt;a class="dropdown-item" href="#catching">Catching&lt;/a>
+&lt;a class="dropdown-item" href="#stepping">Stepping&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#combo" role="tab" aria-controls="combo">Combo&lt;/a>&lt;/li>
+&lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#okizeme" role="tab" aria-controls="okizeme">Okizeme&lt;/a>&lt;/li>&lt;/ul>
+&lt;div class="tab-content" id="techniques">&lt;div id="catching" class="tab-pane show active" role="tabpanel" aria-labelledby="catching">
+&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
+&lt;h3 id="skill-thông-dụng">Skill thông dụng&lt;/h3>
+&lt;p>Các skill để catch sau đây rất thường được sử dụng.&lt;/p>
+&lt;p>
+&lt;img data-toggle="tooltip" data-placement="top" title="Sonic Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/sonic_blade.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Juggernaut Buster" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/juggernaut_buster.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="War Prelude" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/war_prelude.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt="">&lt;/p>
+&lt;p>Command thông dụng:&lt;/p>
+&lt;ul>
+&lt;li>Dash X/XX, Dash Jump X/XX&lt;/li>
+&lt;/ul>
+&lt;h3 id="skill-chains">Skill chains&lt;/h3>
+&lt;h4 id="juggernaut-buster-chains">Juggernaut Buster chains&lt;/h4>
+&lt;p>
+&lt;img data-toggle="tooltip" data-placement="top" title="Juggernaut Buster" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/juggernaut_buster.png" alt="">: Tỉ lệ bắt được cao. Sau khi dùng
+&lt;img data-toggle="tooltip" data-placement="top" title="Juggernaut Buster" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/juggernaut_buster.png" alt=""> cần liên kết với các skill:
+&lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">,
+&lt;img data-toggle="tooltip" data-placement="top" title="Sonic Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/sonic_blade.png" alt="">,
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">,
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt="">.&lt;/p>
+&lt;h4 id="critical-dive-chains">Critical Dive chains&lt;/h4>
+&lt;p>
+&lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">: Sau Critical Dive sẽ có freeze frames ngắn, vừa đủ để liên kết với các skill khác:
+&lt;img data-toggle="tooltip" data-placement="top" title="Sonic Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/sonic_blade.png" alt="">,
+&lt;img data-toggle="tooltip" data-placement="top" title="War Prelude" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/war_prelude.png" alt="">,
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">, &amp;hellip; hoặc Awakening. Video examples:&lt;/p>
+&lt;h4 id="active-chains">Active chains&lt;/h4>
+&lt;p>
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt=""> Provoke,
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt=""> Iron Body,
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt=""> Rushing Sword,
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt=""> Dodge and Slash. Thứ tự thông dụng&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt=""> hoặc
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">.&lt;/li>
+&lt;/ul>
+&lt;p>Sau Active chains bạn có thể liên kết tiếp thêm Super Active khác hoặc các chains khác.&lt;/p>
+&lt;h4 id="escape-chains">Escape chains&lt;/h4>
+&lt;p>Dùng sau khi break combo đối phương.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Roll and Dodge" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/roll_and_dodge.png" alt=""> &amp;gt;
+&lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="stepping" class="tab-pane" role="tabpanel" aria-labelledby="stepping">
+&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;/div>
+&lt;div id="combo" class="tab-pane" role="tabpanel" aria-labelledby="combo">
+&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;/div>
+&lt;div id="okizeme" class="tab-pane" role="tabpanel" aria-labelledby="okizeme">
+&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
+&lt;p>Thường sử dụng các skill tầm rộng hoặc có Super Armor thể recatch đối phương&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Juggernaut Buster" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/juggernaut_buster.png" alt=""> Juggernaut Buster chains: Do skill này có hút nên tỉ lệ Oki thành công cực cao. Vừa có thể dùng để catch vừa có thể dùng Oki.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="War Prelude" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/war_prelude.png" alt="">&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Sonic Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/sonic_blade.png" alt="">&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt="">&lt;/li>
+&lt;li>\(\rightarrow \rightarrow \text{XX} \)&lt;/li>
+&lt;/ul>
+&lt;/div>&lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/catching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/catching/</guid><description>
+&lt;h2 id="essential">Essential&lt;/h2>
+&lt;h3 id="common">Common&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt=""> Dodge and Slash: Dùng nhiều để bắt người và trade skill do có Super Armor. Liên kết được nhiều skill khác.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt=""> Iron Body: Bật super armor (không bị hitstun).&lt;/li>
+&lt;li>Command \(\rightarrow \rightarrow \uparrow \text{X}\)&lt;/li>
+&lt;/ul>
+&lt;h3 id="skill-chains">Skill chains&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Roll and Dodge" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/roll_and_dodge.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">: Catch sau khi escape khỏi combo.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">: Liên kết 2 skill phòng trường hợp hụt Dodge and Slash.&lt;/li>
+&lt;/ul>
+&lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash: Flexin'.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Unlimited Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/unlimited_blade.png" alt="">: Không hiệu quả lắm nhưng nhìn đẹp.&lt;/li>
+&lt;/ul>
+&lt;div style="max-width: 600px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1scf9XzVWVY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/combo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/combo/</guid><description>
+&lt;h2 id="essential">Essential&lt;/h2>
+&lt;h3 id="kiến-thức-cơ-bản">Kiến thức cơ bản&lt;/h3>
+&lt;p>Khi chơi Elesis chú ý thanh Chilvary&lt;/p>
+&lt;img data-toggle="tooltip" data-placement="top" title="Chivalry System" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/chivalry.PNG" alt="">
+&lt;p>Thanh chilvary có 2 modes, tùy loại combo chuyển mode thích hợp:&lt;/p>
+&lt;ul>
+&lt;li>Gale mode (Màu xanh):
+&lt;ul>
+&lt;li>Tăng action speed, move speed.&lt;/li>
+&lt;li>Khi dùng Gale skils: Giảm MP cost, Giảm MP cooldown.&lt;/li>
+&lt;li>Khi dùng command Z: Hồi MP nhanh, giảm Knockdown rate.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Annihilation mode(Màu đỏ): Tăng damage command X. Tăng damage các skill có Ahnihilation mode.
+&lt;ul>
+&lt;li>Khi dùng Annihilation skills: Ignore 10% defense, ignore Guard (Shield/Knockdown).&lt;/li>
+&lt;li>Khi dùng command X: Tăng damage.&lt;/li>
+&lt;li>Tăng activation chance của các skill Annihilation skills.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.&lt;/p>
+&lt;h3 id="combo-gain-mp">Combo gain MP&lt;/h3>
+&lt;p>&lt;strong>Z loop&lt;/strong>, &lt;strong>ZZZ loop&lt;/strong>: Bật Gale mode trước khi dùng.&lt;/p>
+&lt;h3 id="infinite-combo">Infinite combo&lt;/h3>
+&lt;p>&lt;strong>X drop&lt;/strong>: X drop này reset KD rate cứ chèn cái X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/p>
+&lt;p>Command: Launching ^X&lt;/p>
+&lt;div style="max-width: 600px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/EL37GYfkM7k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="combo-damage">Combo damage&lt;/h3>
+&lt;p>TBD&lt;/p>
+&lt;h3 id="platform-converting">Platform converting&lt;/h3>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="videos">Videos&lt;/h2>
+&lt;div class="row">
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1d7tJiB3gHs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/BDaqijKqDOM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/D5NtAkDYuyo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</guid><description>
+&lt;h2 id="essential">Essential&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">
+&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">
+&lt;/li>
+&lt;/ul></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</guid><description>
+&lt;h2 id="essential">Essential&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;p>TBD&lt;/p></description></item></channel></rss>

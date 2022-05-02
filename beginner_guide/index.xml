@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Hướng dẫn cho beginners</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/</link><description>Recent content in Hướng dẫn cho beginners on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner_guide: Màn hình Ultrawide 21:9</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Hướng dẫn chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/</link><description>Recent content in Hướng dẫn chung on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner_guide: Màn hình Ultrawide 21:9</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</guid><description>
 &lt;h2 id="tổng-quan">Tổng quan&lt;/h2>
 &lt;p>Trước hết chúng ta hãy cùng so sánh 2 độ phân giải màn hình sau:&lt;/p>
 &lt;ul>
@@ -40,13 +40,13 @@
 &lt;li>&lt;strong>Hitstun&lt;/strong>: Trạng thái nhân vật bị trúng đòn và không thể cử động.&lt;/li>
 &lt;li>&lt;strong>Active skill&lt;/strong>: Các skill không tốn nhiều MP. Đa phần không có freeze frames và invincible frames khi sử dụng.&lt;/li>
 &lt;li>&lt;strong>Special Active skill&lt;/strong>: Các skill tốn nhiều MP. Có freeze frames và invincible frames khi sử dụng.&lt;/li>
-&lt;li>&lt;strong>Knockdown value/KD value&lt;/strong>:&lt;/li>
+&lt;li>&lt;strong>Knockdown value/KD value&lt;/strong>: Cơ chế của game Elsword. Mỗi đòn đánh đều có một KD value nhất định và sẽ tăng KD value áp đặt lên nhân vật khi nhân vật nhận đòn. Khi tổng giả trị KD value áp đặt lên nhân vật vượt quá 100 nhân vật sẽ bị knockdown&lt;span data-toggle="tooltip" data-placement="top" title="Đa phần special active và active skill không có KD value." style="color: red">*&lt;/span>.&lt;/li>
 &lt;li>&lt;strong>Knockdown/KD&lt;/strong>: Là trạng thái nhân vật ngã và nằm xuống đất khi KD value đạt giá trị tối đa.&lt;/li>
-&lt;li>&lt;strong>Freeze frames&lt;/strong>: Các Skill Special Active trong Elsword đều có freeze frames. Đối phương hoàn toàn bất động khi ở trong phạm vi tác động của freeze frame của skill đó (khác với phạm vi tấn công của skill) cho đến khi freeze frames kết thúc&lt;span data-toggle="tooltip" data-placement="top" title="Khi đối phương nhận đòn trong freeze frame, đối phương sẽ cử động trở lại mặc dù freeze frames chưa kết thúc" style="color: red">*&lt;/span>.&lt;/li>
+&lt;li>&lt;strong>Freeze frames&lt;/strong>: Các Skill Special Active trong Elsword đều có freeze frames. Đối phương hoàn toàn bất động khi ở trong phạm vi tác động của freeze frame của skill đó (khác với phạm vi tấn công của skill) cho đến khi freeze frames kết thúc&lt;span data-toggle="tooltip" data-placement="top" title="Khi đối phương nhận hitstun trong freeze frame, đối phương sẽ cử động trở lại mặc dù freeze frames chưa kết thúc" style="color: red">*&lt;/span>.&lt;/li>
 &lt;li>&lt;strong>Invincible frames (I-frames)&lt;/strong>: Nhân vật không nhận sát thương khi ở trong I-frames&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những trường hợp ngoại lệ như Attribute DoT, Raid accessories, các debuff DoT" style="color: red">*&lt;/span>. E.g. Lúc vừa mới hồi sinh hoặc ngồi dậy sau khi bị knockdown.&lt;/li>
 &lt;li>&lt;strong>Super Armor&lt;/strong>: Nhân vật có viền màu đỏ, không bị hitstun&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những debuff như groggy, stun, flatten, etc… từ những skill đặc biệt của các character" style="color: red">*&lt;/span>. Tuy nhiên vẫn nhận sát thương và bị ảnh hưởng bởi freeze frames.&lt;/li>
-&lt;li>&lt;strong>Latency/delay&lt;/strong>: Khi pvp bạn có thể thường gặp trường hợp đã đánh trúng đối phương nhưng mãi 1 2 giây sau đối phương mới bị hitstun. Đó là delay. Khi pvp ở NA server thì sẽ thường xuyên bị delay ảnh hưởng trận đấu.&lt;/li>
-&lt;/ul></description></item><item><title>Beginner_guide: Kỹ thuật cơ bản</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
+&lt;li>&lt;strong>Latency/delay&lt;/strong>: Khi pvp bạn có thể thường gặp trường hợp đã đánh trúng đối phương nhưng mãi 1 2 giây sau đối phương mới bị hitstun, đó là delay. Khi pvp ở NA server thì sẽ thường xuyên bị delay ảnh hưởng trận đấu.&lt;/li>
+&lt;/ul></description></item><item><title>Beginner_guide: Kỹ thuật chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Catching là cả một nghệ thuật. Không thể thành thạo một cách nhanh gọn mà phải được tích lũy theo thời gian. Hướng dẫn sau đây sẽ giúp các bạn có một cái nhìn tổng quát hơn về các kĩ thuật cơ bản được dùng trong PVP.&lt;/p>
 &lt;/div>
@@ -65,7 +65,7 @@
 &lt;p>Nhảy cao hơn bình thưởng. Tùy nhân vật có thể nhảy 2 bậc platforms hoặc 3 bậc platforms. Tiếp cận nhanh đối thủ.
 Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đang dash jump, điều đó sẽ khiến bạn nhảy cao hơn.&lt;/p>
 &lt;p>Input thông dụng: &lt;code>&amp;gt;&amp;gt;^&amp;lt;&lt;/code>&lt;/p>
-&lt;p>Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/stepping/">Stepping&lt;/a>.&lt;/p>
+&lt;p>Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/J_r1Qk73Vv8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
@@ -74,7 +74,7 @@ Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đa
 &lt;h3 id="spring-step">Spring step&lt;/h3>
 &lt;p>Spring step là kĩ thuật di chuyển nhanh gần mặt đất. Nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Kĩ thuật này rất thông dụng để tiếp cận đối thủ.&lt;/p>
 &lt;p>Input thông dụng: &lt;code>dash repeat ^v&lt;/code>&lt;/p>
-&lt;p>Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/stepping/">Stepping&lt;/a>.&lt;/p>
+&lt;p>Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/BFync0r_rM8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
@@ -90,7 +90,7 @@ Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đa
 &lt;li>Air slide: Một trong những step được người đời kính nể. Kiểu như vào sparring/arena mà làm trò này thì khá chắc chắn là bọn nó sẽ WOW như đúng rồi.&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
 &lt;/ul>
-&lt;p>Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/stepping/">Stepping&lt;/a>.&lt;/p>
+&lt;p>Tìm hiểu thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p>
 &lt;h2 id="footsies-kỹ-thuật-giữ-khoảng-cách">Footsies (Kỹ thuật giữ khoảng cách)&lt;/h2>
 &lt;p>Footsies hay còn gọi là kĩ thuật giữ khoảng cách. Cụm từ này xuất hiện trong hầu hết tất cả fighting game.&lt;/p>
 &lt;p>Có thể hiểu đơn giản là giữ khoảng cách và tạo ra các đòn mồi nhử, từ đó lợi dụng sơ hở của đối phương để chiếm lợi thế. Kiểu như chơi mind game vậy.&lt;/p>
@@ -107,15 +107,15 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;p>Kỹ thuật này đòi hỏi phải thông thạo được kĩ năng đối phương. Biết người biết ta trăm trận trăm thắng.&lt;/p>
 &lt;p>Luyện được cái này thì hơi khó, chỉ có &lt;strong>tích lũy bằng kinh nghiệm&lt;/strong> trận mạc thôi.&lt;/p>
 &lt;h2 id="skill-chaining">Skill chaining&lt;/h2>
-&lt;p>Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Mục đích chính:&lt;/p>
+&lt;p>Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Một số mục đích chính:&lt;/p>
 &lt;ul>
 &lt;li>Combo damage cực mạnh.&lt;/li>
-&lt;li>Kéo dài freeze frames để bắt đối thủ.&lt;/li>
+&lt;li>Kéo dài freeze frames để: bắt đối thủ, kéo hết buff của đối thủ (E.g. Super armor, I-frames)&lt;/li>
 &lt;li>Kéo dài super armor để không bị hitstun.&lt;/li>
 &lt;li>Kéo dài I-frames để không nhận damage.&lt;/li>
 &lt;/ul>
 &lt;p>Video examples cho từng loại:&lt;/p>
-&lt;h2 id="skill-trading-trao-đổi-chiêu-thức">SKill trading (Trao đổi chiêu thức)&lt;/h2>
+&lt;h2 id="skill-trading-trao-đổi-chiêu-thức">Skill trading (Trao đổi chiêu thức)&lt;/h2>
 &lt;p>Skill trading xảy ra khi cả 2 đổi thủ đều sử dụng skill chaining để cố gắng bắt đối phương. Để có ưu thế hơn ta phải tối ưu được lượng mana gain được lượng mana sử dụng, lượng damage nhận được và gây ra, độ dài của chuỗi skill chaining càng dài càng tốt.&lt;/p>
 &lt;p>Một số lưu ý:&lt;/p>
 &lt;ul>
@@ -151,11 +151,11 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;li>Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát&lt;/li>
 &lt;li>One shot: Theo đúng nghĩa đen, 1 phát chết luôn.&lt;/li>
 &lt;/ul>
-&lt;p>Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/">Combo&lt;/a>.&lt;/p>
+&lt;p>Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#combo">Combo&lt;/a>.&lt;/p>
 &lt;h2 id="okizeme-oki">Okizeme (Oki)&lt;/h2>
 &lt;p>Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và recatch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.&lt;/p>
 &lt;p>Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.&lt;/p>
-&lt;p>Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Catching&lt;/a>.&lt;/p>
+&lt;p>Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#catching">Catching&lt;/a>.&lt;/p>
 &lt;p>Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó:&lt;/p>
 &lt;ul>
 &lt;li>Skill dodge/evasion.&lt;/li>
@@ -195,7 +195,7 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;/ul>
 &lt;p>Ngay sau khi đối thủ đứng dậy sau Knockdown. &lt;code>Attacker&lt;/code> nên dùng Oki nếu có thể:&lt;/p>
 &lt;ul>
-&lt;li>Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để recatch, &amp;hellip;. Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Okizeme&lt;/a>.&lt;/li>
+&lt;li>Okizeme: Thông thường, mọi người sẽ dùng các skill có freeze frames, các skill có khả năng hút, các skill homing để recatch, &amp;hellip;. Bạn nên tìm hiểu rõ character của bạn, nên setup như thế nào để tăng tỉ lệ thành công của Oki. Đọc thêm &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Okizeme&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Defender&lt;/strong>: Sau khi bạn bị đối phương bắt được. Các option có thể lựa chọn:&lt;/p>
 &lt;ul>
@@ -207,6 +207,6 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;h2 id="sau-khi-đọc-xong">Sau khi đọc xong&lt;/h2>
 &lt;p>Điều quan trọng sau khi đọc xong là phải áp dụng nó như thế nào. Vì vậy cho nên:&lt;/p>
 &lt;ul>
-&lt;li>Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/catching/">Techniques&lt;/a> nhé.&lt;/li>
+&lt;li>Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Techniques&lt;/a> nhé.&lt;/li>
 &lt;li>Kể từ giờ, mỗi khi xem video pvp trên youtube, hãy chú ý xem &lt;code>Attacker&lt;/code>: Okizeme, Combo, Reading, Footsies, &amp;hellip;, &lt;code>Defender&lt;/code>: Break combo, Tank, &amp;hellip; Học hỏi từ những người giỏi nhất và áp dụng cho mình nhé.&lt;/li>
 &lt;/ul></description></item></channel></rss>
