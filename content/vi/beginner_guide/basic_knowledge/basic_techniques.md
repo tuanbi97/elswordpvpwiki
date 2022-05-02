@@ -2,8 +2,6 @@
 title: "Kỹ thuật chung"
 linkTitle: "Kỹ thuật chung"
 weight: 3
-description: >
-  Các kỹ thuật cơ bản cho người bắt đầu
 ---
 
 {{% pageinfo %}}
@@ -14,44 +12,44 @@ Catching là cả một nghệ thuật. Không thể thành thạo một cách n
 
 Stepping hay còn gọi là kỹ thuật di chuyển. Trong Elsword, map PVP thường rộng có nhiều khoảng trống để di chuyển không như các fighting game khác. Vì vậy, di chuyển tốt trong map là một lợi thế lớn.
 
+### Essential
+
 Sau đây là các kỹ thuật stepping cơ bản. Các kỹ thuật này không quá phức tạp nhưng rất cần thiết trong trận chiến.
 
-### Fast fall
+#### Fast fall
 
-Có thể thực hiện ở mọi nhân vật dùng để rớt nhanh xuống đất. Do đa phần các kĩ năng đều thực hiện dưới mặt đặt. Giữ nhân vật trên mặt đất là 1 lợi thế.
+Có thể thực hiện với mọi nhân vật dùng để đáp nhanh xuống đất. Do đa số các kỹ năng đều được thực hiện dưới mặt đặt. Nên việc giữ nhân vật ở trên mặt đất là một lợi thế.
 
-Phương pháp: 
-- Bấm xuống khi đang ở trên không 
-- Nhấn xuống khi đang dash (chạy) ở trên không
+Input thông dụng: 
+- \\( \uparrow \downarrow \\)
+- \\( \rightarrow \rightarrow \uparrow \downarrow \\)
+- \\( \uparrow \rightarrow \rightarrow \downarrow \\)
 
-Input thông dụng: `^v`  , `>>^v`  ,  `^>>v`
+#### High jump
 
-### High jump
+Nhảy cao hơn bình thường. Tùy từng nhân vật có thể nhảy được 2 hoặc 3 bậc platforms. Kỹ năng này giúp bạn tiếp cận đối phương ở nơi cao hơn vị trí của bạn i.e platform, ở trên không, etc...
 
-Nhảy cao hơn bình thưởng. Tùy nhân vật có thể nhảy 2 bậc platforms hoặc 3 bậc platforms. Tiếp cận nhanh đối thủ.
-Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đang dash jump, điều đó sẽ khiến bạn nhảy cao hơn.
+Input thông dụng: \\( \rightarrow \rightarrow \uparrow \leftarrow \\)
 
-Input thông dụng: `>>^<`
-
-Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
+Tùy character sẽ có các cách high jump khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
 <div style="max-width: 600px">{{< youtube id="J_r1Qk73Vv8">}}</div>
 
-### Spring step
-Spring step là kĩ thuật di chuyển nhanh gần mặt đất. Nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Kĩ thuật này rất thông dụng để tiếp cận đối thủ. 
+#### Spring step
+Spring step là kỹ thuật di chuyển nhanh gần mặt đất. Khi sử dụng kỹ thuật, nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Đây là kỹ thuật rất thông dụng dùng tiếp cận đối thủ phương. 
 
-Input thông dụng: `dash repeat ^v`
+Input thông dụng: \\( \text{hold dash} \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow \enspace \downarrow \uparrow\\)
 
-Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
+Tùy character sẽ có các cách spring step khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
 <div style="max-width: 600px">{{< youtube id="BFync0r_rM8">}}</div>
 
-### Những step nâng cao
+### Advanced
 - Circle step
 - V step
 - Platform latch
 - Hinpoppo step
-- Platform sweep: Sử dụng để gain MP hoặc gây command damage sử dụng ở hầu hết các character cầm kiếm.
+- Platform sweep
 - Air slide: Một trong những step được người đời kính nể. Kiểu như vào sparring/arena mà làm trò này thì khá chắc chắn là bọn nó sẽ WOW như đúng rồi.
 - ...
 
@@ -82,11 +80,11 @@ Luyện được cái này thì hơi khó, chỉ có **tích lũy bằng kinh ng
 
 ## Skill chaining
 
-Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Một số mục đích chính:
-- Combo damage cực mạnh.
-- Kéo dài freeze frames để: bắt đối thủ, kéo hết buff của đối thủ (E.g. Super armor, I-frames)
+Sử dụng liên tiếp các skills theo một thứ tự thích hợp để đạt được một số mục đích như:
+- Combo sốc damage cực mạnh.
+- Kéo dài freeze frames tăng tầm bắt, kéo hết buff<span data-toggle="tooltip" data-placement="top" title="E.g. Super armor, I-frames" style="color: red">*</span> của đối phương.
 - Kéo dài super armor để không bị hitstun.
-- Kéo dài I-frames để không nhận damage.
+- Kéo dài I-frames để không bị hitstun, không bị nhận damage.
 
 Video examples cho từng loại: 
 
@@ -111,21 +109,25 @@ Ví dụ: CC (Comet Crusader) cố găng sử dụng skill chains để thoát k
 <div style="max-width: 600px">{{< youtube id="Z08RaOpfmhQ">}}</div>
 
 ## Combo
-Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:
+Sau khi bắt được đối thủ thì đây là lúc thể hiện khả năng combo của bạn. Combo được chia thành các loại thông dụng sau:
 - Combo gain MP: Dùng để hồi MP nhanh.
-- Combo sốc damage cực mạnh: Ép đối phương mana break.
-- Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát
-- One shot: Theo đúng nghĩa đen, 1 phát chết luôn.
+- Combo sốc damage: Ép đối phương mana break.
+- Infinite combo: Combo làm đối thủ không thể KD. Ép đối phương mana break để thoát.
+
+Một số loại combo khác:
+- Combo burn MP.
+- Combo phá Mana break timing.
+- Combo cố tình để drop/leak.
 
 Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Combo]({{< relref "/techniques/common_tech/#combo" >}}).
 
 ## Okizeme (Oki)
 
-Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp lực lên đối thủ và recatch khi đối thủ vừa đứng dậy sau Knockdown(KD). Việc sử dụng Oki đơn giản nhất đó chính là thả Force skills: Haunted Spirit hoặc Fog of Death.
+Okizeme(Oki) là một thuật ngữ trong fighting game chỉ việc gây áp lực lên đối phương khi đối phương vừa đứng dậy sau Knockdown(KD).
 
 Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.
 
-Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục [Catching]({{< relref "/techniques/common_tech/#catching" >}}).
+Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục [Okizeme]({{< relref "/techniques/common_tech/#okizeme" >}}).
 
 Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó: 
 - Skill dodge/evasion. 
@@ -138,9 +140,9 @@ Video examples
 
 ## Mana break
 
-Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì có thể đối thủ sẽ bắt lại được.
+Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. Chú ý hạn chế mana break ngay cạnh của platform vì đối phương sẽ có cơ hội bắt lại.
 
-Cách dùng: Khi có hơn 100 MP. Nhấn giữ `Z` hoặc `X`. Thanh màu vàng sẽ tăng dần trên thanh MP. Dính hit thì mình sẽ mất mất toàn bộ MP trên thanh màu vàng và Knockdown ngay lập tức.
+Cách dùng: Khi có hơn 100 MP. Nhấn giữ `Z` hoặc `X`. Thanh màu vàng sẽ tăng dần trên thanh MP. Khi nhận hit thì nhân vật sẽ mất toàn bộ MP trên thanh màu vàng và bị Knockdown ngay lập tức.
 
 Video hướng dẫn:
 <div style="max-width: 600px">{{< youtube id="WT3pyT_W-y0">}}</div>
