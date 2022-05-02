@@ -1,6 +1,6 @@
 ---
-title: "Kỹ thuật cơ bản"
-linkTitle: "Kỹ thuật cơ bản"
+title: "Kỹ thuật chung"
+linkTitle: "Kỹ thuật chung"
 weight: 3
 description: >
   Các kỹ thuật cơ bản cho người bắt đầu
@@ -33,7 +33,7 @@ Vì game sẽ duplicate jump của bạn nếu bạn quay mặt ngược khi đa
 
 Input thông dụng: `>>^<`
 
-Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/stepping" >}}).
+Tùy character sẽ có nhiều cách high jump khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
 <div style="max-width: 600px">{{< youtube id="J_r1Qk73Vv8">}}</div>
 
@@ -42,7 +42,7 @@ Spring step là kĩ thuật di chuyển nhanh gần mặt đất. Nhân vật nh
 
 Input thông dụng: `dash repeat ^v`
 
-Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/stepping" >}}).
+Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
 <div style="max-width: 600px">{{< youtube id="BFync0r_rM8">}}</div>
 
@@ -55,7 +55,7 @@ Tùy character sẽ có nhiều cách spring step khác nhau. Tìm hiểu thêm 
 - Air slide: Một trong những step được người đời kính nể. Kiểu như vào sparring/arena mà làm trò này thì khá chắc chắn là bọn nó sẽ WOW như đúng rồi.
 - ...
 
-Tìm hiểu thêm trong mục [Stepping]({{< relref "/stepping" >}}).
+Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
 ## Footsies (Kỹ thuật giữ khoảng cách)
 
@@ -82,15 +82,15 @@ Luyện được cái này thì hơi khó, chỉ có **tích lũy bằng kinh ng
 
 ## Skill chaining
 
-Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Mục đích chính:
+Sử dụng liên tiếp các skills theo một thứ tự thích hợp. Một số mục đích chính:
 - Combo damage cực mạnh.
-- Kéo dài freeze frames để bắt đối thủ.
+- Kéo dài freeze frames để: bắt đối thủ, kéo hết buff của đối thủ (E.g. Super armor, I-frames)
 - Kéo dài super armor để không bị hitstun.
 - Kéo dài I-frames để không nhận damage.
 
 Video examples cho từng loại: 
 
-## SKill trading (Trao đổi chiêu thức)
+## Skill trading (Trao đổi chiêu thức)
 
 Skill trading xảy ra khi cả 2 đổi thủ đều sử dụng skill chaining để cố gắng bắt đối phương. Để có ưu thế hơn ta phải tối ưu được lượng mana gain được lượng mana sử dụng, lượng damage nhận được và gây ra, độ dài của chuỗi skill chaining càng dài càng tốt.
 
@@ -117,7 +117,7 @@ Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài ng
 - Infinite combo: Combo làm đối thủ không thể KD. Chỉ có thể mana break để thoát
 - One shot: Theo đúng nghĩa đen, 1 phát chết luôn.
 
-Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Combo]({{< relref "/combo" >}}).
+Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Combo]({{< relref "/techniques/common_tech/#combo" >}}).
 
 ## Okizeme (Oki)
 
@@ -125,7 +125,7 @@ Okizeme(Oki) là một thuật ngũ trong fighting game chỉ việc gây áp l�
 
 Người sử dụng Oki tốt sẽ áp dụng kỹ thuật skill chaining để kết hợp nhiều skill với nhau để tăng tỉ lệ recatch sau KD.
 
-Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục [Catching]({{< relref "/catching" >}}).
+Mỗi character đều có vài Oki tỉ lệ recatch cao để setup. Tìm hiểu thêm ở mục [Catching]({{< relref "/techniques/common_tech/#catching" >}}).
 
 Một số Oki rất bá đạo và rất khó để tránh. Tuy nhiên vẫn có 1 số cách để thoát khỏi nó: 
 - Skill dodge/evasion. 
