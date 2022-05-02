@@ -117,7 +117,7 @@ Sau khi bắt được đối thủ thì đây là lúc thể hiện khả năng
 Một số loại combo khác:
 - Combo burn MP.
 - Combo phá Mana break timing.
-- Combo cố tình để drop/leak.
+- Combo cố tình drop/leak.
 
 Tùy từng character sẽ có cách setup combo khác nhau. Xem thêm trong [Combo]({{< relref "/techniques/common_tech/#combo" >}}).
 
