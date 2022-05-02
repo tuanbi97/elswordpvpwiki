@@ -3,22 +3,60 @@
 {{- $tabs := .Scratch.Get "tabs" -}}
 {{- if .Inner -}}{{- /* We don't use the inner content, but Hugo will complain if we don't reference it. */ -}}{{- end -}}
 <ul class="nav nav-tabs" id="{{ $tab_set_id }}" role="tablist">
+	{{- $tab_map := dict -}}
 	{{- range $i, $e := $tabs -}}
-	  {{- $id := printf "%s-%d" $tab_set_id $i -}}
-	  {{- if (eq $i 0) -}}
-		<li class="nav-item"><a data-toggle="tab" class="nav-link active" href="#{{ $id }}" role="tab" aria-controls="{{ $id }}" aria-selected="true">{{- trim .name " " -}}</a></li>
-	  {{ else }}
-		<li class="nav-item"><a data-toggle="tab" class="nav-link" href="#{{ $id }}" role="tab" aria-controls="{{ $id }}">{{- trim .name " " -}}</a></li>
-	  {{- end -}}
+		{{- $id := $e.tabid -}}	
+		{{- if $e.groupid -}}
+			{{- $id = $e.groupid -}}
+		{{- end -}}
+		{{ $pos := "-1" }}
+		{{ range $idx, $v := $tab_map }}
+			{{ $tab := index $v 0 }}
+			{{ if (or (eq $tab.tabid $id) (eq $tab.groupid $id)) }}
+				{{ $pos = $idx }}
+			{{ end }}
+		{{ end }}
+		{{ if eq $pos "-1" }}
+			{{ $tab_map = merge $tab_map (dict (printf "%d" $i) (slice $e)) }}
+		{{ else }}
+			{{ $group_list := index $tab_map $pos}}
+			{{ $group_list = append (slice $e) $group_list }}
+			{{ $tab_map = merge $tab_map (dict $pos $group_list) }}
+		{{ end }}
+	{{- end -}}
+	{{ range $key, $v := $tab_map }}
+		{{ if gt (len $v) 1 }}
+			{{ $first_tab := (index $v 0)}}
+			{{ $groupid := $first_tab.groupid}}
+			<li class="nav-item dropdown">
+				{{- if (eq $key "0") -}}
+					<a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#{{ $groupid }}" role="button" aria-haspopup="true" aria-expanded="false">{{$first_tab.group_name}}</a>
+				{{ else }}
+					<a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#{{ $groupid }}" role="button" aria-haspopup="true" aria-expanded="false">{{$first_tab.group_name}}</a>
+				{{ end }}
+				<div class="dropdown-menu">
+					{{ range $v}}
+						<a class="dropdown-item" href="#{{ .tabid }}">{{.name}}</a>
+					{{ end }}
+				</div>
+			</li>
+		{{ else }}
+			{{ $e := index $v 0 }}
+			{{- if (eq $key "0") -}}
+				<li class="nav-item"><a data-toggle="tab" class="nav-link active" href="#{{ $e.tabid }}" role="tab" aria-controls="{{ $e.tabid }}" aria-selected="true">{{- trim $e.name " " -}}</a></li>
+			{{ else }}
+				<li class="nav-item"><a data-toggle="tab" class="nav-link" href="#{{ $e.tabid }}" role="tab" aria-controls="{{ $e.tabid }}">{{- trim $e.name " " -}}</a></li>
+			{{- end -}}
+		{{ end }}
 {{- end -}}
 </ul>
 <div class="tab-content" id="{{ $tab_set_id }}">
 {{- range $i, $e := $tabs -}}
 {{- $id := printf "%s-%d" $tab_set_id $i -}}
 {{- if (eq $i 0) -}}
-  <div id="{{ $id }}" class="tab-pane show active" role="tabpanel" aria-labelledby="{{ $id }}">
+  <div id="{{ $e.tabid }}" class="tab-pane show active" role="tabpanel" aria-labelledby="{{ $e.tabid }}">
 {{ else }}
-  <div id="{{ $id }}" class="tab-pane" role="tabpanel" aria-labelledby="{{ $id }}">
+  <div id="{{ $e.tabid }}" class="tab-pane" role="tabpanel" aria-labelledby="{{ $e.tabid }}">
 {{ end }}
 <p>
 	{{- with .content -}}

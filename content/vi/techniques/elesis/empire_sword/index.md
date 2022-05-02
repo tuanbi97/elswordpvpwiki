@@ -3,10 +3,9 @@ title: "Empire Sword"
 linkTitle: "Empire Sword"
 weight: 1
 ---
-
 {{< tabs name="techniques" >}}
-  {{< tab name="Neutral-Catching" include="catching" />}}
-  {{< tab name="Neutral-Stepping" include="stepping" />}}
-  {{< tab name="Combo" include="combo" />}}
-  {{< tab name="Okizeme" include="okizeme" />}}
+  {{< tab groupid="neutral" groupName="Neutral" tabid="catching" name="Catching" include="catching" />}}
+  {{< tab groupid="neutral" groupName="Neutral" tabid="stepping" name="Stepping" include="stepping" />}}
+  {{< tab tabid="combo" name="Combo" include="combo" />}}
+  {{< tab tabid="okizeme" name="Okizeme" include="okizeme" />}}
 {{< /tabs >}}

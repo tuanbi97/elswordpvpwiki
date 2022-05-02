@@ -9,7 +9,7 @@
         font-weight: $font-weight-body-text;
     }
 
-    > h1 {
+    > h1, .tab-content h1 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 32px;
@@ -17,7 +17,7 @@
         margin-bottom: 1rem;
     }
 
-    > h2 {
+    > h2, .tab-content h2 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 24px;
@@ -25,28 +25,28 @@
         margin-bottom: 1rem;
     }
 
-    > h3 {
+    > h3, .tab-content h3 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 20px;
         line-height: 28px;
     }
 
-    > h4 {
+    > h4, .tab-content h4 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 18px;
         line-height: 24px;
     }
 
-    > h5 {
+    > h5, .tab-content h5 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 16px;
         line-height: 20px;
     }
 
-    > h6 {
+    > h6, .tab-content h6 {
         font-family: $font-family-header;
         font-weight: $font-weight-normal;
         font-size: 14px;
@@ -57,11 +57,11 @@
         margin-top: 3rem;
     }
 
-    > h2 + h3 {
+    > h2 + h3, .tab-content h2 + h3 {
         margin-top: 1rem;
     }
 
-    > h3, > h4, > h5, > h6 {
+    > h3, > h4, > h5, > h6, .tab-content h3, .tab-content h4, .tab-content h5, .tab-content h6 {
         margin-bottom: 1rem;
         margin-top: 2rem;
     }
@@ -86,6 +86,10 @@
     }
 
     > ul li, > ol li {
+        margin-bottom: .25rem;
+    }
+
+    .tab-content ul li, .tab-content ol li {
         margin-bottom: .25rem;
     }
 

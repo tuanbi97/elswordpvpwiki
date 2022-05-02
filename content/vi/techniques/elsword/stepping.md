@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-## Basic steps
+## Essential
 
 ### Spring step
 
@@ -11,7 +11,6 @@ hidden: true
 ### High Jump
 
 1. \\( \rightarrow \rightarrow \uparrow \leftarrow\\)
-
 2. \\( \rightarrow \rightarrow \uparrow \leftarrow \rightarrow\\)
 
 ### Circle step
@@ -38,7 +37,7 @@ hidden: true
 3. \\( \rightarrow \rightarrow \uparrow \text{X} \\)
 4. \\( \text{hold} \uparrow \enspace \rightarrow \rightarrow \text{X} \enspace \leftarrow \leftarrow \text{X} \enspace \rightarrow \rightarrow \text{X}\\)
 
-## Advanced steps
+## Advanced
 
 ### Arc slash
 
@@ -57,10 +56,16 @@ hidden: true
 3. **One sided hinpoppo slash**: \\( \text{hold} \uparrow \enspace \rightarrow (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \enspace \leftarrow \downarrow \rightarrow  \text{Z} \enspace (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \\)
 
 ### Helix
+TBD
 
 ### Air slash
+TBD
 
 ### Hinpoppo wave
+TBD
 
-Coffins: https://www.youtube.com/watch?v=EpDlNrFrr58
-EE: https://www.youtube.com/watch?v=qL-R5h0CU5k
+## Videos
+<div class="row">
+  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="EpDlNrFrr58">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="qL-R5h0CU5k">}}</div>
+</div>

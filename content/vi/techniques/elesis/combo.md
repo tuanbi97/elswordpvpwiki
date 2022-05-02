@@ -1,7 +1,8 @@
 ---
 hidden: true
 ---
-
+## Essential
+### Kiến thức cơ bản
 Khi chơi Elesis chú ý thanh Chilvary
 
 {{< skill id="chivalry" name="Chivalry System" >}}
@@ -18,23 +19,23 @@ Thanh chilvary có 2 modes, tùy loại combo chuyển mode thích hợp:
 
 Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.
 
-## Combo gain MP
+### Combo gain MP
 
 **Z loop**, **ZZZ loop**: Bật Gale mode trước khi dùng.
 
-## Infinite combo
+### Infinite combo
 
 **X drop**: X drop này reset KD rate cứ chèn cái X drop này vào bất cứ vị trí nào trong combo của bạn. 
 
 Command: Launching ^X
 <div style="max-width: 600px">{{< youtube id="EL37GYfkM7k">}}</div>
 
-## Combo damage
+### Combo damage
 
-**Sweeping X**
+TBD
 
-## Platform converting
-
+### Platform converting
+TBD
 
 ## Videos
 <div class="row">

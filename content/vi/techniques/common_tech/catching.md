@@ -1,21 +1,22 @@
 ---
 hidden: true
 ---
-
 ## Tổng quan
 Trong phần này, chúng mình sẽ tổng hợp những cách catching hiệu quả. 
 Nguyên lý catching được đa số mọi người sử dụng:
 - Sử dụng các command diện rộng.
 - Sử dụng command hoặc skill có super armor.
 - Sử dụng skill chains với freeze frames.
-- Sử dụng skill dí theo đối phương (homing skills).
+- Sử dụng skill truy tìm đối phương (homing skills).
 - Sử dụng skill có hút.
 
 Còn nếu mà bạn đánh trùm quá rồi, đọc vị được đối thủ luôn, dùng command đơn giản mà vẫn bắt được thì mấy nguyên lý trên coi như vứt. LOL.
 
-Về việc sử dụng command Z, X để catching thì người ta sẽ kết hợp với việc stepping. Xem thêm [Stepping]({{< relref "/techniques" >}})
+Ngoài ra, vận dụng được các kĩ năng Stepping sẽ giúp việc bắt người hiệu quả hơn. Xem thêm [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
-## Một số cách bắt người chung cho mọi character
+Sau đây là một số cách bắt người chung cho mọi character.
+
+## Essential
 - Dùng Force Skills:
   - {{< skill id="hauting_spirit" name="Haunting Spirit">}} Haunting spirit: Video example
   - {{< skill id="lightning_chain" name="Lightning Chain">}} Lightning Chain: Video example
@@ -26,8 +27,6 @@ Về việc sử dụng command Z, X để catching thì người ta sẽ kết 
   - {{< skill id="obtenebration" name="Obtenebration">}} Obtenebration: Lợi dụng I-frames để tiếp cận đối thủ. Video example
 - Awakening: Có freeze frames, tiếp cận nhanh đối thủ trong freeze frames để catch. Video example.
 - Skill chains phổ biến:
-  - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} Hyper acceleration > Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
-  - {{< skill id="hauting_spirit" name="Haunting Spirit">}} Haunting spirit > Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
-  - {{< skill id="hauting_spirit" name="Haunting Spirit">}} Haunting spirit > Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.
-
-Phần tiếp theo sẽ tổng hợp các skill chains và okizeme của từng class nhân vật.
+  - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
+  - {{< skill id="hauting_spirit" name="Haunting Spirit">}} <i class="fa fa-arrow-right"></i> Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
+  - {{< skill id="hauting_spirit" name="Haunting Spirit">}} <i class="fa fa-arrow-right"></i> Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.
