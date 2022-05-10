@@ -27,16 +27,36 @@
 &lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_create_custom.png">
 &lt;p>Những resolution cho độ phân giải 21:9:&lt;/p>
 &lt;ul>
-&lt;li>1920x820&lt;/li>
+&lt;li>1920x820 (thông dụng)&lt;/li>
 &lt;li>2560x1080 (thông dụng)&lt;/li>
 &lt;li>2880×1200&lt;/li>
 &lt;li>3440×1440&lt;/li>
 &lt;/ul>
 &lt;p>Xem thêm &lt;a href="https://en.wikipedia.org/wiki/Ultrawide_formats">Ultrawide resolution&lt;/a>&lt;/p>
 &lt;p>&lt;strong>Lưu ý&lt;/strong>: Bạn có thể set như nào cũng được không nhất thiết phải là ultrawide. Tuy nhiên, &lt;strong>tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ&lt;/strong>. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.&lt;/p>
-&lt;h3 id="cài-đặt-resolution-trên-elsword">Cài đặt resolution trên elsword&lt;/h3>
+&lt;h2 id="cài-đặt-trên-card-màn-hình-tích-hợp-igpu">Cài đặt trên card màn hình tích hợp (iGPU)&lt;/h2>
+&lt;p>Cách này dùng cho các máy laptop hoặc desktop sử dụng card màn hình tích hợp.&lt;/p>
+&lt;h3 id="download-custom-resolution-utility">Download Custom Resolution Utility&lt;/h3>
+&lt;p>Download &lt;a href="https://custom-resolution-utility.en.lo4d.com/windows">Custom Resolution Utility&lt;/a>. App này dùng được cho cả iGPU AMD và NVIDIA.&lt;/p>
+&lt;p>Trong trường hợp gặp sự cố không set được custom resolution trên APU của AMD, bạn tham khảo thêm &lt;a href="https://www.softpedia.com/get/System/System-Miscellaneous/RCRM.shtml">Radeon Custom Reolution Manager&lt;/a>&lt;/p>
+&lt;h3 id="cài-đặt-custom-resolution-1">Cài đặt custom resolution&lt;/h3>
+&lt;p>Những resolution cho độ phân giải 21:9:&lt;/p>
+&lt;ul>
+&lt;li>1920x820 (thông dụng)&lt;/li>
+&lt;li>2560x1080 (thông dụng)&lt;/li>
+&lt;li>2880×1200&lt;/li>
+&lt;li>3440×1440&lt;/li>
+&lt;/ul>
+&lt;p>Refresh rate thích hợp:&lt;/p>
+&lt;ul>
+&lt;li>60 Hz (thông dụng)&lt;/li>
+&lt;li>80 Hz: Nếu màn hình của bạn hỗ trợ refresh rate lớn hơn 80 thì nên set 80 Hz&lt;/li>
+&lt;/ul>
+&lt;p>Restart máy sau khi cài đặt xong.&lt;/p>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/cru.png">
+&lt;h2 id="cài-đặt-resolution-trên-elsword">Cài đặt resolution trên elsword&lt;/h2>
 &lt;p>Sau khi cài đặt xong custom resolution thì mở elsword lên. Custom resolution sẽ xuất hiện trong option của game. Sau khi chọn resolution thì hãy &lt;strong>bật fullscreen&lt;/strong>, custom resolution &lt;strong>không có tác dụng trong window mode&lt;/strong>.&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/in_game_option.png"></description></item><item><title>Beginner_guide: Kiến thức chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/in_game_option.png"></description></item><item><title>Beginner_guide: Kỹ thuật chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Catching là cả một nghệ thuật. Không thể thành thạo một cách nhanh gọn mà phải được tích lũy theo thời gian. Hướng dẫn sau đây sẽ giúp các bạn có một cái nhìn tổng quát hơn về các kĩ thuật cơ bản được dùng trong PVP.&lt;/p>
 &lt;/div>
@@ -173,7 +193,7 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;p>&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/pvpworkflow.png" alt="">&lt;/p>
 &lt;p>Xuyên suốt trận đầu sẽ xoay quanh 2 vai trò chủ đạo: &lt;code>Attacker&lt;/code> (người tấn công), &lt;code>Defender&lt;/code> (người phòng thủ). Đôi lúc bạn là attacker, đôi lúc bạn là defender.&lt;/p>
 &lt;p>Win hay lose tùy thuộc vào chiến lược và lựa chọn của bạn khi đang đóng vai trò nào. Sau đây là giải thích sơ đồ dựa trên 1v1 mode:&lt;/p>
-&lt;p>Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái &lt;code>Attacker&lt;/code>. Cả 2 tìm cách để bắt được đối phương. Để bắt được đối phương cả 2 cần vận dụng:&lt;/p>
+&lt;p>Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái &lt;code>Neutral&lt;/code>. Cả 2 tìm cách để bắt được đối phương. Để bắt được đối phương cả 2 cần vận dụng:&lt;/p>
 &lt;ul>
 &lt;li>Stepping: Dùng kỹ năng di chuyển để bắt đối phương.&lt;/li>
 &lt;li>Reading: Đọc vị đối thủ&lt;/li>
