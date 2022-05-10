@@ -1,7 +1,7 @@
 ---
 title: "Nguyên lý PVP"
 linkTitle: "Nguyên lý PVP"
-weight: 4
+weight: 3
 description: >
   Nắm rõ nguyên lý hoạt động trong PVP giúp bạn hiểu rõ hơn về tình huống mình đang gặp phải từ đó tìm ra cách xử lý.
 ---

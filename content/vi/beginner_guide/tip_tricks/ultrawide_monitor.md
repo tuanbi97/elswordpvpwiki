@@ -17,9 +17,11 @@ Trước hết chúng ta hãy cùng so sánh 2 độ phân giải màn hình sau
 
 Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn thêm custom resolution vào Option của Elsword.
 
-## Hướng dẫn
+## Cài đặt trên card màn hình rời (dGPU)
 
-Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình NVDIA còn AMD thì các bạn xem thêm ở [đây nhé](https://www.amd.com/en/support/kb/faq/dh-032)
+Cách này dùng cho các máy tính để bàn (Desktop) có sử dụng card màn hình rời.
+
+Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình rời NVIDIA còn AMD thì các bạn xem thêm ở [đây nhé](https://www.amd.com/en/support/kb/faq/dh-032)
 
 ### Mở NVIDIA Control Panel
 
@@ -42,7 +44,7 @@ Chuột phải lên màn hinh desktop
 {{< imgproc2 nvidia_create_custom >}}
 
 Những resolution cho độ phân giải 21:9:
-- 1920x800
+- 1920x820
 - 2560x1080 (thông dụng)
 - 2880×1200
 - 3440×1440

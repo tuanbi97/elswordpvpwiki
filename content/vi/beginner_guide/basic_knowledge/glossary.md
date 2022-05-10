@@ -1,7 +1,7 @@
 ---
 title: "Thuật ngữ"
 linkTitle: "Thuật ngữ"
-weight: 2
+weight: 4
 description: >
   Các thuật ngữ thông dụng bạn cần biết
 ---
