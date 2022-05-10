@@ -16,7 +16,7 @@ Xuyên suốt trận đầu sẽ xoay quanh 2 vai trò chủ đạo: `Attacker` 
 
 Win hay lose tùy thuộc vào chiến lược và lựa chọn của bạn khi đang đóng vai trò nào. Sau đây là giải thích sơ đồ dựa trên 1v1 mode:
 
-Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái `Attacker`. Cả 2 tìm cách để bắt được đối phương. Để bắt được đối phương cả 2 cần vận dụng:
+Ngay khi bắt đầu trận đấu cả 2 đối thủ để ở trạng thái `Neutral`. Cả 2 tìm cách để bắt được đối phương. Để bắt được đối phương cả 2 cần vận dụng:
 - Stepping: Dùng kỹ năng di chuyển để bắt đối phương.
 - Reading: Đọc vị đối thủ
 - Footsies: Giữ khoảng cách và nhử mồi đối thủ.

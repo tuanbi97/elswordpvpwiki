@@ -1,6 +1,6 @@
 ---
-title: "Kiến thức chung"
-linkTitle: "Kiến thức chung"
+title: "Kỹ thuật chung"
+linkTitle: "Kỹ thuật chung"
 weight: 2
 ---
 
