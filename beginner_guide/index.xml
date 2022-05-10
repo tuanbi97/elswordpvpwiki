@@ -12,8 +12,9 @@
 &lt;/li>
 &lt;/ul>
 &lt;p>Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn thêm custom resolution vào Option của Elsword.&lt;/p>
-&lt;h2 id="hướng-dẫn">Hướng dẫn&lt;/h2>
-&lt;p>Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình NVDIA còn AMD thì các bạn xem thêm ở &lt;a href="https://www.amd.com/en/support/kb/faq/dh-032">đây nhé&lt;/a>&lt;/p>
+&lt;h2 id="cài-đặt-trên-card-màn-hình-rời-dgpu">Cài đặt trên card màn hình rời (dGPU)&lt;/h2>
+&lt;p>Cách này dùng cho các máy tính để bàn (Desktop) có sử dụng card màn hình rời.&lt;/p>
+&lt;p>Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình rời NVIDIA còn AMD thì các bạn xem thêm ở &lt;a href="https://www.amd.com/en/support/kb/faq/dh-032">đây nhé&lt;/a>&lt;/p>
 &lt;h3 id="mở-nvidia-control-panel">Mở NVIDIA Control Panel&lt;/h3>
 &lt;p>Chuột phải lên màn hinh desktop&lt;/p>
 &lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_control_panel.png">
@@ -26,7 +27,7 @@
 &lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_create_custom.png">
 &lt;p>Những resolution cho độ phân giải 21:9:&lt;/p>
 &lt;ul>
-&lt;li>1920x800&lt;/li>
+&lt;li>1920x820&lt;/li>
 &lt;li>2560x1080 (thông dụng)&lt;/li>
 &lt;li>2880×1200&lt;/li>
 &lt;li>3440×1440&lt;/li>
@@ -35,18 +36,7 @@
 &lt;p>&lt;strong>Lưu ý&lt;/strong>: Bạn có thể set như nào cũng được không nhất thiết phải là ultrawide. Tuy nhiên, &lt;strong>tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ&lt;/strong>. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.&lt;/p>
 &lt;h3 id="cài-đặt-resolution-trên-elsword">Cài đặt resolution trên elsword&lt;/h3>
 &lt;p>Sau khi cài đặt xong custom resolution thì mở elsword lên. Custom resolution sẽ xuất hiện trong option của game. Sau khi chọn resolution thì hãy &lt;strong>bật fullscreen&lt;/strong>, custom resolution &lt;strong>không có tác dụng trong window mode&lt;/strong>.&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/in_game_option.png"></description></item><item><title>Beginner_guide: Thuật ngữ</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/glossary/</guid><description>
-&lt;ul>
-&lt;li>&lt;strong>Hitstun&lt;/strong>: Trạng thái nhân vật bị trúng đòn và không thể cử động.&lt;/li>
-&lt;li>&lt;strong>Active skill&lt;/strong>: Các skill không tốn nhiều MP. Đa phần không có freeze frames và invincible frames khi sử dụng.&lt;/li>
-&lt;li>&lt;strong>Special Active skill&lt;/strong>: Các skill tốn nhiều MP. Có freeze frames và invincible frames khi sử dụng.&lt;/li>
-&lt;li>&lt;strong>Knockdown value/KD value&lt;/strong>: Cơ chế của game Elsword. Mỗi đòn đánh đều có một KD value nhất định và sẽ tăng KD value áp đặt lên nhân vật khi nhân vật nhận đòn. Khi tổng giả trị KD value áp đặt lên nhân vật vượt quá 100 nhân vật sẽ bị knockdown&lt;span data-toggle="tooltip" data-placement="top" title="Đa phần special active và active skill không có KD value." style="color: red">*&lt;/span>.&lt;/li>
-&lt;li>&lt;strong>Knockdown/KD&lt;/strong>: Là trạng thái nhân vật ngã và nằm xuống đất khi KD value đạt giá trị tối đa.&lt;/li>
-&lt;li>&lt;strong>Freeze frames&lt;/strong>: Các Skill Special Active trong Elsword đều có freeze frames. Đối phương hoàn toàn bất động khi ở trong phạm vi tác động của freeze frame của skill đó (khác với phạm vi tấn công của skill) cho đến khi freeze frames kết thúc&lt;span data-toggle="tooltip" data-placement="top" title="Khi đối phương nhận hitstun trong freeze frame, đối phương sẽ cử động trở lại mặc dù freeze frames chưa kết thúc" style="color: red">*&lt;/span>.&lt;/li>
-&lt;li>&lt;strong>Invincible frames (I-frames)&lt;/strong>: Nhân vật không nhận sát thương khi ở trong I-frames&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những trường hợp ngoại lệ như Attribute DoT, Raid accessories, các debuff DoT" style="color: red">*&lt;/span>. E.g. Lúc vừa mới hồi sinh hoặc ngồi dậy sau khi bị knockdown.&lt;/li>
-&lt;li>&lt;strong>Super Armor&lt;/strong>: Nhân vật có viền màu đỏ, không bị hitstun&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những debuff như groggy, stun, flatten, etc… từ những skill đặc biệt của các character" style="color: red">*&lt;/span>. Tuy nhiên vẫn nhận sát thương và bị ảnh hưởng bởi freeze frames.&lt;/li>
-&lt;li>&lt;strong>Latency/delay&lt;/strong>: Khi pvp bạn có thể thường gặp trường hợp đã đánh trúng đối phương nhưng mãi 1 2 giây sau đối phương mới bị hitstun, đó là delay. Khi pvp ở NA server thì sẽ thường xuyên bị delay ảnh hưởng trận đấu.&lt;/li>
-&lt;/ul></description></item><item><title>Beginner_guide: Kỹ thuật chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/in_game_option.png"></description></item><item><title>Beginner_guide: Kiến thức chung</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/basic_techniques/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Catching là cả một nghệ thuật. Không thể thành thạo một cách nhanh gọn mà phải được tích lũy theo thời gian. Hướng dẫn sau đây sẽ giúp các bạn có một cái nhìn tổng quát hơn về các kĩ thuật cơ bản được dùng trong PVP.&lt;/p>
 &lt;/div>
@@ -214,4 +204,15 @@ Khuyến khích người chơi hiểu, biết sử dụng stepping trong footsie
 &lt;ul>
 &lt;li>Bắt đầu bằng việc xem thử character của bạn làm được những gì trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/">Techniques&lt;/a> nhé.&lt;/li>
 &lt;li>Kể từ giờ, mỗi khi xem video pvp trên youtube, hãy chú ý xem &lt;code>Attacker&lt;/code>: Okizeme, Combo, Reading, Footsies, &amp;hellip;, &lt;code>Defender&lt;/code>: Break combo, Tank, &amp;hellip; Học hỏi từ những người giỏi nhất và áp dụng cho mình nhé.&lt;/li>
+&lt;/ul></description></item><item><title>Beginner_guide: Thuật ngữ</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/basic_knowledge/glossary/</guid><description>
+&lt;ul>
+&lt;li>&lt;strong>Hitstun&lt;/strong>: Trạng thái nhân vật bị trúng đòn và không thể cử động.&lt;/li>
+&lt;li>&lt;strong>Active skill&lt;/strong>: Các skill không tốn nhiều MP. Đa phần không có freeze frames và invincible frames khi sử dụng.&lt;/li>
+&lt;li>&lt;strong>Special Active skill&lt;/strong>: Các skill tốn nhiều MP. Có freeze frames và invincible frames khi sử dụng.&lt;/li>
+&lt;li>&lt;strong>Knockdown value/KD value&lt;/strong>: Cơ chế của game Elsword. Mỗi đòn đánh đều có một KD value nhất định và sẽ tăng KD value áp đặt lên nhân vật khi nhân vật nhận đòn. Khi tổng giả trị KD value áp đặt lên nhân vật vượt quá 100 nhân vật sẽ bị knockdown&lt;span data-toggle="tooltip" data-placement="top" title="Đa phần special active và active skill không có KD value." style="color: red">*&lt;/span>.&lt;/li>
+&lt;li>&lt;strong>Knockdown/KD&lt;/strong>: Là trạng thái nhân vật ngã và nằm xuống đất khi KD value đạt giá trị tối đa.&lt;/li>
+&lt;li>&lt;strong>Freeze frames&lt;/strong>: Các Skill Special Active trong Elsword đều có freeze frames. Đối phương hoàn toàn bất động khi ở trong phạm vi tác động của freeze frame của skill đó (khác với phạm vi tấn công của skill) cho đến khi freeze frames kết thúc&lt;span data-toggle="tooltip" data-placement="top" title="Khi đối phương nhận hitstun trong freeze frame, đối phương sẽ cử động trở lại mặc dù freeze frames chưa kết thúc" style="color: red">*&lt;/span>.&lt;/li>
+&lt;li>&lt;strong>Invincible frames (I-frames)&lt;/strong>: Nhân vật không nhận sát thương khi ở trong I-frames&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những trường hợp ngoại lệ như Attribute DoT, Raid accessories, các debuff DoT" style="color: red">*&lt;/span>. E.g. Lúc vừa mới hồi sinh hoặc ngồi dậy sau khi bị knockdown.&lt;/li>
+&lt;li>&lt;strong>Super Armor&lt;/strong>: Nhân vật có viền màu đỏ, không bị hitstun&lt;span data-toggle="tooltip" data-placement="top" title="Trừ những debuff như groggy, stun, flatten, etc… từ những skill đặc biệt của các character" style="color: red">*&lt;/span>. Tuy nhiên vẫn nhận sát thương và bị ảnh hưởng bởi freeze frames.&lt;/li>
+&lt;li>&lt;strong>Latency/delay&lt;/strong>: Khi pvp bạn có thể thường gặp trường hợp đã đánh trúng đối phương nhưng mãi 1 2 giây sau đối phương mới bị hitstun, đó là delay. Khi pvp ở NA server thì sẽ thường xuyên bị delay ảnh hưởng trận đấu.&lt;/li>
 &lt;/ul></description></item></channel></rss>
