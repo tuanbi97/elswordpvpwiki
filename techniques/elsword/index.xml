@@ -52,6 +52,15 @@
 &lt;li>\( \rightarrow \rightarrow \uparrow \leftarrow\)&lt;/li>
 &lt;li>\( \rightarrow \rightarrow \uparrow \leftarrow \rightarrow\)&lt;/li>
 &lt;/ol>
+&lt;h3 id="fast-fall-z">Fast fall Z&lt;/h3>
+&lt;ol>
+&lt;li>\( \uparrow \downarrow \text{Z} \enspace \uparrow \downarrow \text{Z}\)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: nhấn Z khi nhân vật bắt đầu rơi xuống. Có thể làm được trên platform.&lt;/p>
+&lt;ol start="2">
+&lt;li>\( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Forward slash: Thả \( \rightarrow \) sau khi nhấn \( \leftarrow \). Backward slash: Thả \( \rightarrow \) trước khi nhấn \( \leftarrow \)&lt;/p>
 &lt;h3 id="circle-step">Circle step&lt;/h3>
 &lt;p>\( \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow \enspace \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow\)&lt;/p>
 &lt;h3 id="v-step">V step&lt;/h3>
@@ -86,11 +95,20 @@
 &lt;li>&lt;strong>One sided hinpoppo slash&lt;/strong>: \( \text{hold} \uparrow \enspace \rightarrow (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \enspace \leftarrow \downarrow \rightarrow \text{Z} \enspace (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \)&lt;/li>
 &lt;/ol>
 &lt;h3 id="helix">Helix&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Downward Z&lt;/strong>: \( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;li>&lt;strong>Upward Z&lt;/strong>: \( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Có thể giữ \( \uparrow \) để thực hiện dễ hơn&lt;/p>
 &lt;h3 id="air-slash">Air slash&lt;/h3>
-&lt;p>TBD&lt;/p>
-&lt;h3 id="hinpoppo-wave">Hinpoppo wave&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ol>
+&lt;li>\( \uparrow \rightarrow \rightarrow \downarrow \text{light tap}(\leftarrow) \text{Z} \).&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Có thể tập light tap bằng cách cho nhân vật quay mặt qua phải. Sau đó, bấm \( \leftarrow \) mà nhân vật không quay mặt qua trái thì chính xác.&lt;/p>
+&lt;ol start="2">
+&lt;li>\( \leftarrow \uparrow \rightarrow \rightarrow \downarrow \leftarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Không cần light tap. Tuy nhiên, chú ý 2 nút \(\rightarrow\), \(\leftarrow\) cuối cùng. \(\rightarrow\) phải thả ra sau nút \(\leftarrow\) một đoạn ngắn tầm 10ms.&lt;/p>
 &lt;h2 id="videos">Videos&lt;/h2>
 &lt;div class="row">
 &lt;div class="col-sm mb-3 mr-1 mt-1">

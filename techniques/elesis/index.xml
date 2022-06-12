@@ -147,19 +147,60 @@
 &lt;/ul>
 &lt;p>Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.&lt;/p>
 &lt;h3 id="combo-gain-mp">Combo gain MP&lt;/h3>
-&lt;p>&lt;strong>Z loop&lt;/strong>, &lt;strong>ZZZ loop&lt;/strong>: Bật Gale mode trước khi dùng.&lt;/p>
+&lt;p>Bật Gale mode trước khi dùng.&lt;/p>
+&lt;ul>
+&lt;li>\(\text{Z}\) loop&lt;/li>
+&lt;li>\(\text{ZZZ}\) loop&lt;/li>
+&lt;/ul>
 &lt;h3 id="infinite-combo">Infinite combo&lt;/h3>
-&lt;p>&lt;strong>X drop&lt;/strong>: X drop này reset KD rate cứ chèn cái X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/p>
-&lt;p>Command: Launching ^X&lt;/p>
+&lt;ul>
+&lt;li>\(\text{X}\) drop: Hất đối thủ lên sau đó \( \uparrow \text{X} \) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/li>
+&lt;/ul>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/EL37GYfkM7k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;h3 id="combo-damage">Combo damage&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ul>
+&lt;li>\(\text{X}\) sweep: &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elesis/#stepping">Stepping&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y3TKdeVyEic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>\( \text{hold}(\leftarrow \rightarrow) \text{X}\): X loop&lt;/li>
+&lt;/ul>
 &lt;h3 id="platform-converting">Platform converting&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;h4 id="downward">Downward&lt;/h4>
+&lt;ul>
+&lt;li>\(\text{ZZZ}\)&lt;/li>
+&lt;li>\(\text{X drop}\) Video examples&lt;/li>
+&lt;/ul>
+&lt;h4 id="upward">Upward&lt;/h4>
+&lt;ul>
+&lt;li>\(\text{ZZZZ}\) \(\text{X drop}\)&lt;/li>
+&lt;/ul>
+&lt;h3 id="combo-anti-mana-break-edge-combo">Combo anti mana break (Edge combo)&lt;/h3>
+&lt;p>Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):&lt;/p>
+&lt;ul>
+&lt;li>Khi mana break sát cạnh, nhân vật sẽ có một khoảng thời gian rơi tự do không phòng bị. Nhờ vậy, có thể bắt lại ngay lập tức làm tiêu hao MP đối phương.&lt;/li>
+&lt;li>Tương tự khi knockdown sát cạnh cũng thế.&lt;/li>
+&lt;/ul>
+&lt;p>Nhờ những combo này mà gear yếu hơn cũng có thể thắng những character gear mạnh hơn nhiều lần.&lt;/p>
+&lt;ul>
+&lt;li>\( \text{Up Down Z} \): Combo này dù đối phương có mana break hay bị knock down thì đều catch lại được.&lt;/li>
+&lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/C_ZTkAH3lgk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>\( \text{X loop} \): Combo này damage mạnh. Combo sát cạnh có thể ép đối phương mana break.&lt;/li>
+&lt;/ul>
 &lt;h2 id="videos">Videos&lt;/h2>
 &lt;div class="row">
 &lt;div class="col-sm mb-3 mr-1 mt-1">
@@ -179,15 +220,25 @@
 &lt;/div>
 &lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</guid><description>
 &lt;h2 id="essential">Essential&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;p>Lợi dụng super armor của các skill sau để lấy lợi thế
 &lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">
-&lt;/li>
-&lt;li>
-&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">
-&lt;/li>
-&lt;/ul></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</guid><description>
-&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p></description></item></channel></rss>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">&lt;/p></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</guid><description>
+&lt;p>Đối với các character cầm kiếm, đa số các step đều có input tương tự như Elsword. Đọc &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elsword/#stepping">Stepping Elsword&lt;/a>&lt;/p>
+&lt;h2 id="videos">Videos&lt;/h2>
+&lt;div class="row">
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y3TKdeVyEic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/GlX98-ch2T0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qSK2URISPPE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

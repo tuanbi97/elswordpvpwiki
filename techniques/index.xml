@@ -169,7 +169,9 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;img data-toggle="tooltip" data-placement="top" title="Haunting Spirit" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hauting_spirit.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/combo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/combo/</guid><description>
+&lt;/ul>
+&lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;p>Để tăng thêm phần hiệu quả trong catching, những pro player sẽ thêm vào nhiều kỹ thuật stepping. Sử dụng hiệu quả stepping sẽ giúp bạn cực kỳ linh hoạt trong trận chiến. Tùy nhân vật sẽ có nhiều kỹ thuật stepping khác nhau. Xem thêm trong mục &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/common_tech/#stepping">Stepping&lt;/a>.&lt;/p></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/combo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/combo/</guid><description>
 &lt;h2 id="tổng-quan">Tổng quan&lt;/h2>
 &lt;p>Sau khi bắt được đối thủ thì đây là lúc cho thể hiện tài nghê combo của bạn. Combo có thể chia thành các loại sau:&lt;/p>
 &lt;ul>
@@ -181,6 +183,7 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;p>Các loại khác:&lt;/p>
 &lt;ul>
 &lt;li>Combo burn MP: Cái này thì tùy class mới làm được. Đối thủ không thể hồi đủ MP để Mana break.&lt;/li>
+&lt;li>Combo anti mana break/ knockdown (Edge combo): Đối thủ khó sử dụng mana break để thoát hoặc phải mất nhiều MP mới thoát được combo.&lt;/li>
 &lt;li>Flexin combo: Chủ yếu thể hiện kỹ năng múa chứ độ hiệu quả thì hên xui.&lt;/li>
 &lt;/ul>
 &lt;p>Mỗi character đều có cách combo riêng biệt nên bạn hãy bắt đầu tìm hiểu combo của character của mình nhé.&lt;/p>
@@ -197,12 +200,13 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;/ul>
 &lt;h2 id="essential">Essential&lt;/h2>
 &lt;ul>
-&lt;li>Force skills
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Haunting Spirit" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hauting_spirit.png" alt="">: Dùng Hauting Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example.&lt;/li>
+&lt;/ul>
+&lt;h2 id="advanced">Advanced&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;img data-toggle="tooltip" data-placement="top" title="Haunting Spirit" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hauting_spirit.png" alt="">: Dùng Hauting Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt="">: Di chuyển nhanh để recatch khi đối thủ cố gắng chạy khi vừa wake up. Thường dùng kết hợp với special active skills. Video example.&lt;/li>
 &lt;/ul></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/common_tech/stepping/</guid><description>
 &lt;h2 id="tổng-quan">Tổng quan&lt;/h2>
 &lt;p>Kỹ năng stepping sẽ giúp bạn có được những bước di chuyển hiểu quả trong trận đấu. Không những thế, những combo tuyệt đẹp và những pha catching vi diệu đều có áp dụng những bước di chuyển thần thánh.&lt;/p>
@@ -266,19 +270,60 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;/ul>
 &lt;p>Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.&lt;/p>
 &lt;h3 id="combo-gain-mp">Combo gain MP&lt;/h3>
-&lt;p>&lt;strong>Z loop&lt;/strong>, &lt;strong>ZZZ loop&lt;/strong>: Bật Gale mode trước khi dùng.&lt;/p>
+&lt;p>Bật Gale mode trước khi dùng.&lt;/p>
+&lt;ul>
+&lt;li>\(\text{Z}\) loop&lt;/li>
+&lt;li>\(\text{ZZZ}\) loop&lt;/li>
+&lt;/ul>
 &lt;h3 id="infinite-combo">Infinite combo&lt;/h3>
-&lt;p>&lt;strong>X drop&lt;/strong>: X drop này reset KD rate cứ chèn cái X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/p>
-&lt;p>Command: Launching ^X&lt;/p>
+&lt;ul>
+&lt;li>\(\text{X}\) drop: Hất đối thủ lên sau đó \( \uparrow \text{X} \) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/li>
+&lt;/ul>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/EL37GYfkM7k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;h3 id="combo-damage">Combo damage&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ul>
+&lt;li>\(\text{X}\) sweep: &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elesis/#stepping">Stepping&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y3TKdeVyEic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>\( \text{hold}(\leftarrow \rightarrow) \text{X}\): X loop&lt;/li>
+&lt;/ul>
 &lt;h3 id="platform-converting">Platform converting&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;h4 id="downward">Downward&lt;/h4>
+&lt;ul>
+&lt;li>\(\text{ZZZ}\)&lt;/li>
+&lt;li>\(\text{X drop}\) Video examples&lt;/li>
+&lt;/ul>
+&lt;h4 id="upward">Upward&lt;/h4>
+&lt;ul>
+&lt;li>\(\text{ZZZZ}\) \(\text{X drop}\)&lt;/li>
+&lt;/ul>
+&lt;h3 id="combo-anti-mana-break-edge-combo">Combo anti mana break (Edge combo)&lt;/h3>
+&lt;p>Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):&lt;/p>
+&lt;ul>
+&lt;li>Khi mana break sát cạnh, nhân vật sẽ có một khoảng thời gian rơi tự do không phòng bị. Nhờ vậy, có thể bắt lại ngay lập tức làm tiêu hao MP đối phương.&lt;/li>
+&lt;li>Tương tự khi knockdown sát cạnh cũng thế.&lt;/li>
+&lt;/ul>
+&lt;p>Nhờ những combo này mà gear yếu hơn cũng có thể thắng những character gear mạnh hơn nhiều lần.&lt;/p>
+&lt;ul>
+&lt;li>\( \text{Up Down Z} \): Combo này dù đối phương có mana break hay bị knock down thì đều catch lại được.&lt;/li>
+&lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/C_ZTkAH3lgk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>\( \text{X loop} \): Combo này damage mạnh. Combo sát cạnh có thể ép đối phương mana break.&lt;/li>
+&lt;/ul>
 &lt;h2 id="videos">Videos&lt;/h2>
 &lt;div class="row">
 &lt;div class="col-sm mb-3 mr-1 mt-1">
@@ -298,18 +343,28 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;/div>
 &lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/okizeme/</guid><description>
 &lt;h2 id="essential">Essential&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;p>Lợi dụng super armor của các skill sau để lấy lợi thế
 &lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">
-&lt;/li>
-&lt;li>
-&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">
-&lt;/li>
-&lt;/ul></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</guid><description>
-&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</guid><description>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">&lt;/p></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/stepping/</guid><description>
+&lt;p>Đối với các character cầm kiếm, đa số các step đều có input tương tự như Elsword. Đọc &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elsword/#stepping">Stepping Elsword&lt;/a>&lt;/p>
+&lt;h2 id="videos">Videos&lt;/h2>
+&lt;div class="row">
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y3TKdeVyEic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/GlX98-ch2T0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qSK2URISPPE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</guid><description>
 &lt;h2 id="essential">Essential&lt;/h2>
 &lt;p>TBD&lt;/p>
 &lt;h2 id="advanced">Advanced&lt;/h2>
@@ -330,6 +385,15 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;li>\( \rightarrow \rightarrow \uparrow \leftarrow\)&lt;/li>
 &lt;li>\( \rightarrow \rightarrow \uparrow \leftarrow \rightarrow\)&lt;/li>
 &lt;/ol>
+&lt;h3 id="fast-fall-z">Fast fall Z&lt;/h3>
+&lt;ol>
+&lt;li>\( \uparrow \downarrow \text{Z} \enspace \uparrow \downarrow \text{Z}\)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: nhấn Z khi nhân vật bắt đầu rơi xuống. Có thể làm được trên platform.&lt;/p>
+&lt;ol start="2">
+&lt;li>\( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Forward slash: Thả \( \rightarrow \) sau khi nhấn \( \leftarrow \). Backward slash: Thả \( \rightarrow \) trước khi nhấn \( \leftarrow \)&lt;/p>
 &lt;h3 id="circle-step">Circle step&lt;/h3>
 &lt;p>\( \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow \enspace \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow\)&lt;/p>
 &lt;h3 id="v-step">V step&lt;/h3>
@@ -364,11 +428,20 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;li>&lt;strong>One sided hinpoppo slash&lt;/strong>: \( \text{hold} \uparrow \enspace \rightarrow (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \enspace \leftarrow \downarrow \rightarrow \text{Z} \enspace (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \)&lt;/li>
 &lt;/ol>
 &lt;h3 id="helix">Helix&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Downward Z&lt;/strong>: \( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;li>&lt;strong>Upward Z&lt;/strong>: \( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Có thể giữ \( \uparrow \) để thực hiện dễ hơn&lt;/p>
 &lt;h3 id="air-slash">Air slash&lt;/h3>
-&lt;p>TBD&lt;/p>
-&lt;h3 id="hinpoppo-wave">Hinpoppo wave&lt;/h3>
-&lt;p>TBD&lt;/p>
+&lt;ol>
+&lt;li>\( \uparrow \rightarrow \rightarrow \downarrow \text{light tap}(\leftarrow) \text{Z} \).&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Có thể tập light tap bằng cách cho nhân vật quay mặt qua phải. Sau đó, bấm \( \leftarrow \) mà nhân vật không quay mặt qua trái thì chính xác.&lt;/p>
+&lt;ol start="2">
+&lt;li>\( \leftarrow \uparrow \rightarrow \rightarrow \downarrow \leftarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Tips&lt;/strong>: Không cần light tap. Tuy nhiên, chú ý 2 nút \(\rightarrow\), \(\leftarrow\) cuối cùng. \(\rightarrow\) phải thả ra sau nút \(\leftarrow\) một đoạn ngắn tầm 10ms.&lt;/p>
 &lt;h2 id="videos">Videos&lt;/h2>
 &lt;div class="row">
 &lt;div class="col-sm mb-3 mr-1 mt-1">
