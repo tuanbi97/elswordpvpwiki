@@ -13,6 +13,16 @@ hidden: true
 1. \\( \rightarrow \rightarrow \uparrow \leftarrow\\)
 2. \\( \rightarrow \rightarrow \uparrow \leftarrow \rightarrow\\)
 
+### Fast fall Z
+
+1. \\( \uparrow \downarrow \text{Z} \enspace \uparrow \downarrow \text{Z}\\)
+
+**Tips**: nhấn Z khi nhân vật bắt đầu rơi xuống. Có thể làm được trên platform.
+
+2. \\( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \\)
+
+**Tips**:  Forward slash: Thả \\( \rightarrow \\) sau khi nhấn \\( \leftarrow \\). Backward slash: Thả \\( \rightarrow \\) trước khi nhấn \\( \leftarrow \\)
+
 ### Circle step
 
 \\( \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow \enspace \rightarrow \rightarrow \uparrow \leftarrow \leftarrow \downarrow\\)
@@ -56,13 +66,20 @@ hidden: true
 3. **One sided hinpoppo slash**: \\( \text{hold} \uparrow \enspace \rightarrow (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \enspace \leftarrow \downarrow \rightarrow  \text{Z} \enspace (\text{hold} \rightarrow) \downarrow \leftarrow (\text{release} \rightarrow) \text{Z} \\)
 
 ### Helix
-TBD
+1. **Downward Z**: \\( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \\)
+2. **Upward Z**: \\( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \\)
+
+**Tips**: Có thể giữ \\( \uparrow \\) để thực hiện dễ hơn
 
 ### Air slash
-TBD
 
-### Hinpoppo wave
-TBD
+1. \\( \uparrow \rightarrow \rightarrow \downarrow \text{light tap}(\leftarrow) \text{Z} \\).
+
+**Tips**: Có thể tập light tap bằng cách cho nhân vật quay mặt qua phải. Sau đó, bấm \\( \leftarrow \\) mà nhân vật không quay mặt qua trái thì chính xác.
+
+2. \\( \leftarrow \uparrow \rightarrow \rightarrow \downarrow \leftarrow \text{Z} \\)
+
+**Tips**: Không cần light tap. Tuy nhiên, chú ý 2 nút \\(\rightarrow\\), \\(\leftarrow\\) cuối cùng. \\(\rightarrow\\) phải thả ra sau nút \\(\leftarrow\\) một đoạn ngắn tầm 10ms.
 
 ## Videos
 <div class="row">

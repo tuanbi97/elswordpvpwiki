@@ -30,3 +30,7 @@ Sau đây là một số cách bắt người chung cho mọi character.
   - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> Awakening: Tiếp cận nhanh đối phương trong freeze frames khi ở tầm xa. Video example
   - {{< skill id="hauting_spirit" name="Haunting Spirit">}} <i class="fa fa-arrow-right"></i> Awakening: Skill này sẽ tiếp tục dí theo đối thủ trong freeze frames.
   - {{< skill id="hauting_spirit" name="Haunting Spirit">}} <i class="fa fa-arrow-right"></i> Super Active skills: Super Active skills đa số có freeze frames. Hauting sẽ tiếp tục dí đối thủ trong freeze frames.
+
+## Advanced
+
+Để tăng thêm phần hiệu quả trong catching, những pro player sẽ thêm vào nhiều kỹ thuật stepping. Sử dụng hiệu quả stepping sẽ giúp bạn cực kỳ linh hoạt trong trận chiến. Tùy nhân vật sẽ có nhiều kỹ thuật stepping khác nhau. Xem thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).

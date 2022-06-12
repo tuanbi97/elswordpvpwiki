@@ -20,22 +20,42 @@ Thanh chilvary có 2 modes, tùy loại combo chuyển mode thích hợp:
 Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.
 
 ### Combo gain MP
-
-**Z loop**, **ZZZ loop**: Bật Gale mode trước khi dùng.
+Bật Gale mode trước khi dùng.
+- \\(\text{Z}\\) loop
+- \\(\text{ZZZ}\\) loop
 
 ### Infinite combo
 
-**X drop**: X drop này reset KD rate cứ chèn cái X drop này vào bất cứ vị trí nào trong combo của bạn. 
-
-Command: Launching ^X
+- \\(\text{X}\\) drop: Hất đối thủ lên sau đó \\( \uparrow \text{X} \\) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn. 
 <div style="max-width: 600px">{{< youtube id="EL37GYfkM7k">}}</div>
 
 ### Combo damage
 
-TBD
+- \\(\text{X}\\) sweep: [Stepping]({{< relref "/techniques/elesis/#stepping" >}})
+<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="Y3TKdeVyEic">}}</div>
+
+- \\( \text{hold}(\leftarrow \rightarrow) \text{X}\\): X loop
 
 ### Platform converting
-TBD
+
+#### Downward
+- \\(\text{ZZZ}\\)
+- \\(\text{X drop}\\) Video examples
+
+#### Upward
+- \\(\text{ZZZZ}\\) \\(\text{X drop}\\)
+
+### Combo anti mana break (Edge combo)
+Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):
+- Khi mana break sát cạnh, nhân vật sẽ có một khoảng thời gian rơi tự do không phòng bị. Nhờ vậy, có thể bắt lại ngay lập tức làm tiêu hao MP đối phương.
+- Tương tự khi knockdown sát cạnh cũng thế. 
+
+Nhờ những combo này mà gear yếu hơn cũng có thể thắng những character gear mạnh hơn nhiều lần.
+
+- \\( \text{Up Down Z} \\): Combo này dù đối phương có mana break hay bị knock down thì đều catch lại được.
+<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="C_ZTkAH3lgk">}}</div>
+
+- \\( \text{X loop} \\): Combo này damage mạnh. Combo sát cạnh có thể ép đối phương mana break.
 
 ## Videos
 <div class="row">

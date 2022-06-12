@@ -10,5 +10,7 @@ Một số lợi thế khi dùng Okizeme:
 - Recatch đối thủ ngay khi vừa wake up.
 
 ## Essential
-- Force skills
-  - {{< skill id="hauting_spirit" name="Haunting Spirit">}}: Dùng Hauting Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example
+- {{< skill id="hauting_spirit" name="Haunting Spirit">}}: Dùng Hauting Spirit ngay khi đối thủ vừa hết I-frames sau KD. Video example.
+
+## Advanced
+- {{< skill id="hyper_acceleration" name="Hyper Acceleration">}}: Di chuyển nhanh để recatch khi đối thủ cố gắng chạy khi vừa wake up. Thường dùng kết hợp với special active skills. Video example.
