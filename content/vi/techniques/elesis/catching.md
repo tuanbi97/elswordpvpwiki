@@ -13,6 +13,7 @@ hidden: true
 - {{< skill id="dodge_and_slash" name="Dodge and Slash" >}} <i class="fa fa-arrow-right"></i> {{< skill id="iron_body" name="Iron Body">}}: Liên kết 2 skill phòng trường hợp hụt Dodge and Slash.
 
 ## Advanced
-- {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> {{< skill id="iron_body" name="Iron Body">}} <i class="fa fa-arrow-right"></i> Air slash: Flexin'.
-- {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> Air slash <i class="fa fa-arrow-right"></i> {{< skill id="unlimited_blade" name="Unlimited Blade">}}: Không hiệu quả lắm nhưng nhìn đẹp.
+Sử dụng Skill {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} **Elite** trở lên.
+- {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> {{< skill id="iron_body" name="Iron Body">}} <i class="fa fa-arrow-right"></i> Air slash. Video example
+- {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> Air slash <i class="fa fa-arrow-right"></i> {{< skill id="unlimited_blade" name="Unlimited Blade">}}.
 <div style="max-width: 600px">{{< youtube id="1scf9XzVWVY">}}</div>

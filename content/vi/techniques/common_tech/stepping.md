@@ -6,4 +6,4 @@ Kỹ năng stepping sẽ giúp bạn có được những bước di chuyển hi
 
 Mỗi character đều có những kỹ năng stepping riêng biệt, hãy bắt đầu luyện tập với character của bạn nhé.
 
-{{% yt id=ddONGfA3gJ8 %}}
+{{% yt id=LLU9SEJ5dLk %}}
