@@ -1,11 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Techniques</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/</link><description>Recent content in Techniques on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/techniques/index.xml" rel="self" type="application/rss+xml"/><item><title>Techniques: Empire Sword</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/empire_sword/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/empire_sword/</guid><description>
 &lt;ul class="nav nav-tabs" id="techniques" role="tablist">
-&lt;li class="nav-item dropdown">&lt;a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#neutral" role="button" aria-haspopup="true" aria-expanded="false">Neutral&lt;/a>
-&lt;div class="dropdown-menu">
-&lt;a class="dropdown-item" href="#catching">Catching&lt;/a>
-&lt;a class="dropdown-item" href="#stepping">Stepping&lt;/a>
-&lt;/div>
-&lt;/li>
+&lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link active" href="#catching" role="tab" aria-controls="catching" aria-selected="true">Catching&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#combo" role="tab" aria-controls="combo">Combo&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#okizeme" role="tab" aria-controls="okizeme">Okizeme&lt;/a>&lt;/li>&lt;/ul>
 &lt;div class="tab-content" id="techniques">&lt;div id="catching" class="tab-pane show active" role="tabpanel" aria-labelledby="catching">
@@ -17,12 +12,15 @@
 &lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">
 &lt;img data-toggle="tooltip" data-placement="top" title="Juggernaut Buster" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/juggernaut_buster.png" alt="">
 &lt;img data-toggle="tooltip" data-placement="top" title="War Prelude" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/war_prelude.png" alt="">
+&lt;img data-toggle="tooltip" data-placement="top" title="Cross Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/cross_slash.png" alt="">
 &lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt="">
 &lt;img data-toggle="tooltip" data-placement="top" title="Dodge and Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/dodge_and_slash.png" alt="">
 &lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt="">&lt;/p>
 &lt;p>Command thông dụng:&lt;/p>
 &lt;ul>
-&lt;li>Dash X/XX, Dash Jump X/XX&lt;/li>
+&lt;li>\(\text{dash X or XX}\)&lt;/li>
+&lt;li>\(\text{dash jump X or XX}\)&lt;/li>
+&lt;li>\(\text{dash ZX}\)&lt;/li>
 &lt;/ul>
 &lt;h3 id="skill-chains">Skill chains&lt;/h3>
 &lt;h4 id="juggernaut-buster-chains">Juggernaut Buster chains&lt;/h4>
@@ -64,12 +62,14 @@
 &lt;img data-toggle="tooltip" data-placement="top" title="Roll and Dodge" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/roll_and_dodge.png" alt=""> &amp;gt;
 &lt;img data-toggle="tooltip" data-placement="top" title="Critical Dive" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/critical_dive.png" alt="">&lt;/li>
 &lt;/ul>
-&lt;/div>
-&lt;div id="stepping" class="tab-pane" role="tabpanel" aria-labelledby="stepping">
-&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
 &lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p>
+&lt;p>Tổng hợp những cách bắt người đòi hỏi sự luyện tập cao.&lt;/p>
+&lt;h3 id="air-slash--special-active-skills">Air slash + Special Active skills&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash &lt;i class="fa fa-arrow-right">&lt;/i>
+&lt;img data-toggle="tooltip" data-placement="top" title="Cross Slash" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/cross_slash.png" alt="">. Video examples&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;div id="combo" class="tab-pane" role="tabpanel" aria-labelledby="combo">
 &lt;p>&lt;h2 id="essential">Essential&lt;/h2>
@@ -93,21 +93,10 @@
 &lt;/ul>
 &lt;/div>&lt;/div></description></item><item><title>Techniques: Knight Emperor</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/knight_emperor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/knight_emperor/</guid><description>
 &lt;ul class="nav nav-tabs" id="techniques" role="tablist">
-&lt;li class="nav-item dropdown">&lt;a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#neutral" role="button" aria-haspopup="true" aria-expanded="false">Neutral&lt;/a>
-&lt;div class="dropdown-menu">
-&lt;a class="dropdown-item" href="#catching">Catching&lt;/a>
-&lt;a class="dropdown-item" href="#stepping">Stepping&lt;/a>
-&lt;/div>
-&lt;/li>
+&lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link active" href="#catching" role="tab" aria-controls="catching" aria-selected="true">Catching&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#combo" role="tab" aria-controls="combo">Combo&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#okizeme" role="tab" aria-controls="okizeme">Okizeme&lt;/a>&lt;/li>&lt;/ul>
 &lt;div class="tab-content" id="techniques">&lt;div id="catching" class="tab-pane show active" role="tabpanel" aria-labelledby="catching">
-&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;/div>
-&lt;div id="stepping" class="tab-pane" role="tabpanel" aria-labelledby="stepping">
 &lt;p>&lt;h2 id="essential">Essential&lt;/h2>
 &lt;p>TBD&lt;/p>
 &lt;h2 id="advanced">Advanced&lt;/h2>
@@ -212,7 +201,7 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;p>Kỹ năng stepping sẽ giúp bạn có được những bước di chuyển hiểu quả trong trận đấu. Không những thế, những combo tuyệt đẹp và những pha catching vi diệu đều có áp dụng những bước di chuyển thần thánh.&lt;/p>
 &lt;p>Mỗi character đều có những kỹ năng stepping riêng biệt, hãy bắt đầu luyện tập với character của bạn nhé.&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/ddONGfA3gJ8?
+&lt;iframe src="https://www.youtube.com/embed/LLU9SEJ5dLk?
 " style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/catching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elesis/catching/</guid><description>
 &lt;h2 id="essential">Essential&lt;/h2>
@@ -234,13 +223,15 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt="">: Liên kết 2 skill phòng trường hợp hụt Dodge and Slash.&lt;/li>
 &lt;/ul>
 &lt;h2 id="advanced">Advanced&lt;/h2>
+&lt;p>Sử dụng Skill
+&lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;strong>Elite&lt;/strong> trở lên.&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i>
-&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash: Flexin'.&lt;/li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Iron Body" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/iron_body.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash. Video example&lt;/li>
 &lt;li>
 &lt;img data-toggle="tooltip" data-placement="top" title="Hyper Acceleration" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/forces/hyper_acceleration.png" alt=""> &lt;i class="fa fa-arrow-right">&lt;/i> Air slash &lt;i class="fa fa-arrow-right">&lt;/i>
-&lt;img data-toggle="tooltip" data-placement="top" title="Unlimited Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/unlimited_blade.png" alt="">: Không hiệu quả lắm nhưng nhìn đẹp.&lt;/li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Unlimited Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/elesis/unlimited_blade.png" alt="">.&lt;/li>
 &lt;/ul>
 &lt;div style="max-width: 600px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -356,12 +347,19 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;/div>
 &lt;div class="col-sm mb-3 mr-1 mt-1">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/GlX98-ch2T0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/ZuunV4b-tAw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;div class="col-sm mb-3 mr-1 mt-1">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/qSK2URISPPE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/GlX98-ch2T0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>Techniques:</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/catching/</guid><description>

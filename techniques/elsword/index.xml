@@ -1,20 +1,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Elsword</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/</link><description>Recent content in Elsword on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/index.xml" rel="self" type="application/rss+xml"/><item><title>Techniques: Knight Emperor</title><link>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/knight_emperor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/techniques/elsword/knight_emperor/</guid><description>
 &lt;ul class="nav nav-tabs" id="techniques" role="tablist">
-&lt;li class="nav-item dropdown">&lt;a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#neutral" role="button" aria-haspopup="true" aria-expanded="false">Neutral&lt;/a>
-&lt;div class="dropdown-menu">
-&lt;a class="dropdown-item" href="#catching">Catching&lt;/a>
-&lt;a class="dropdown-item" href="#stepping">Stepping&lt;/a>
-&lt;/div>
-&lt;/li>
+&lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link active" href="#catching" role="tab" aria-controls="catching" aria-selected="true">Catching&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#combo" role="tab" aria-controls="combo">Combo&lt;/a>&lt;/li>
 &lt;li class="nav-item">&lt;a data-toggle="tab" class="nav-link" href="#okizeme" role="tab" aria-controls="okizeme">Okizeme&lt;/a>&lt;/li>&lt;/ul>
 &lt;div class="tab-content" id="techniques">&lt;div id="catching" class="tab-pane show active" role="tabpanel" aria-labelledby="catching">
-&lt;p>&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p>
-&lt;/div>
-&lt;div id="stepping" class="tab-pane" role="tabpanel" aria-labelledby="stepping">
 &lt;p>&lt;h2 id="essential">Essential&lt;/h2>
 &lt;p>TBD&lt;/p>
 &lt;h2 id="advanced">Advanced&lt;/h2>
