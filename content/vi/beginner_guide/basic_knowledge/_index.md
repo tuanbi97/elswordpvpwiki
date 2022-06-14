@@ -1,7 +1,7 @@
 ---
 title: "Kiến thức cơ bản"
 linkTitle: "Kiến thức cơ bản"
-weight: 2.5
+weight: 2
 description: >
   Những kiến thức cơ bản trước khi vào trận đấu
 ---
