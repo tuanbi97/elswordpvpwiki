@@ -73,9 +73,38 @@
 &lt;/div>
 &lt;div id="combo" class="tab-pane" role="tabpanel" aria-labelledby="combo">
 &lt;p>&lt;h2 id="essential">Essential&lt;/h2>
-&lt;p>TBD&lt;/p>
+&lt;p>Empire sword (ES) chủ yếu combo bằng command hoặc active. Các combo chủ đạo của ES giống hoàn toàn với &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elesis/#combo">Combo base Elesis&lt;/a>.&lt;/p>
+&lt;p>Hãy chắn chắn bạn đã xem qua Combo base Elesis trước khi tiếp tục nhé.&lt;/p>
+&lt;h3 id="buff-or-debuff-skills">Buff or Debuff skills&lt;/h3>
+&lt;p>Khi combo, tận dụng những skill buff và debuff để tăng sát thương lên đối thủ.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Power Break" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/power_break.png" alt=""> &lt;a href="https://www.elwiki.net/w/Power_Break">Power Break&lt;/a>: Giảm defense, giảm kháng Element của đối phương.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Provoke" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/provoke.png" alt=""> &lt;a href="https://www.elwiki.net/w/Provoke">Provoke&lt;/a>: Tăng damage. Cancel mana break.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Leap" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/leap.png" alt=""> &lt;a href="https://www.elwiki.net/w/Leap">Leap&lt;/a>: Cancel mana break.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="War Prelude" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/war_prelude.png" alt=""> &lt;a href="https://www.elwiki.net/w/War_Prelude">War Prelude&lt;/a>: Tăng command damage và skill damage. Giảm Max MP đối thủ.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Sword of Victory" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/sword_of_victory.png" alt=""> &lt;a href="https://www.elwiki.net/w/Sword_of_Victory">Sword of Victory&lt;/a>: Tăng damage, tăng MP Gain. Tuy nhiên, khá khó xài, nên dùng kết hợp với combo anti mana break.&lt;/li>
+&lt;/ul>
+&lt;h3 id="strong-damage-skills">Strong damage skills&lt;/h3>
+&lt;p>Những skill sau đây gây sát thương rất lớn nếu được build up. Thậm chí, 1 số skill có thế one shot đối thủ.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Rushing Sword" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/rushing_sword.png" alt=""> &lt;a href="https://www.elwiki.net/w/Rushing_Sword">Rushing Sword&lt;/a>: Skill active nhưng damage rất mạnh nếu chém đủ tất cả các hit.&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Triple Sonic" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/triple_sonic.png" alt=""> &lt;a href="https://www.elwiki.net/w/Triple_Sonic">Triple Sonic&lt;/a>&lt;/li>
+&lt;li>
+&lt;img data-toggle="tooltip" data-placement="top" title="Divine Blade" src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/combo/empire_sword/divine_blade.png" alt=""> &lt;a href="https://www.elwiki.net/w/Divine_Blade">Divine Blade&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="advanced">Advanced&lt;/h2>
-&lt;p>TBD&lt;/p>
+&lt;h3 id="anti-mana-break">Anti mana break&lt;/h3>
+&lt;ul>
+&lt;li>\(\text{X loop}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{Special Active skills}\): Sử dụng gần các cạnh. Dù đối phướng mana break hay KD đều có thể re catch bằng Spectial Active skills. Đối với các character rơi chậm như Ain, Eve, Ara, &amp;hellip; thì cứ X loop nhanh liên tục vẫn bắt được khi KD dù không dùng special active skills.
+Video examples&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;div id="okizeme" class="tab-pane" role="tabpanel" aria-labelledby="okizeme">
 &lt;p>&lt;h2 id="essential">Essential&lt;/h2>
@@ -270,11 +299,12 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;ul>
 &lt;li>\(\text{X}\) drop: Hất đối thủ lên sau đó \( \uparrow \text{X} \) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn.&lt;/li>
 &lt;/ul>
-&lt;div style="max-width: 600px">
+&lt;div style="max-width: 600px; margin-bottom: 30px">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/EL37GYfkM7k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
+&lt;h2 id="advanced">Advanced&lt;/h2>
 &lt;h3 id="combo-damage">Combo damage&lt;/h3>
 &lt;ul>
 &lt;li>\(\text{X}\) sweep: &lt;a href="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/techniques/elesis/#stepping">Stepping&lt;/a>&lt;/li>
@@ -428,6 +458,13 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;h3 id="helix">Helix&lt;/h3>
 &lt;ol>
 &lt;li>&lt;strong>Downward Z&lt;/strong>: \( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/R8yKLXL8YK8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ol start="2">
 &lt;li>&lt;strong>Upward Z&lt;/strong>: \( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Tips&lt;/strong>: Có thể giữ \( \uparrow \) để thực hiện dễ hơn&lt;/p>
@@ -450,6 +487,11 @@ Nguyên lý catching được đa số mọi người sử dụng:&lt;/p>
 &lt;div class="col-sm mb-3 mr-1 mt-1">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/qL-R5h0CU5k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1UOO-WaVuQ8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>

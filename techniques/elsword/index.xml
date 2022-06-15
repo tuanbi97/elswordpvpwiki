@@ -86,6 +86,13 @@
 &lt;h3 id="helix">Helix&lt;/h3>
 &lt;ol>
 &lt;li>&lt;strong>Downward Z&lt;/strong>: \( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \)&lt;/li>
+&lt;/ol>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/R8yKLXL8YK8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;ol start="2">
 &lt;li>&lt;strong>Upward Z&lt;/strong>: \( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Tips&lt;/strong>: Có thể giữ \( \uparrow \) để thực hiện dễ hơn&lt;/p>
@@ -108,6 +115,11 @@
 &lt;div class="col-sm mb-3 mr-1 mt-1">
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/qL-R5h0CU5k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div class="col-sm mb-3 mr-1 mt-1">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1UOO-WaVuQ8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
