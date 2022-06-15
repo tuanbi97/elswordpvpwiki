@@ -27,8 +27,9 @@ Bật Gale mode trước khi dùng.
 ### Infinite combo
 
 - \\(\text{X}\\) drop: Hất đối thủ lên sau đó \\( \uparrow \text{X} \\) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn. 
-<div style="max-width: 600px">{{< youtube id="EL37GYfkM7k">}}</div>
+<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="EL37GYfkM7k">}}</div>
 
+## Advanced
 ### Combo damage
 
 - \\(\text{X}\\) sweep: [Stepping]({{< relref "/techniques/elesis/#stepping" >}})

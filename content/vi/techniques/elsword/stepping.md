@@ -67,6 +67,8 @@ hidden: true
 
 ### Helix
 1. **Downward Z**: \\( \rightarrow \rightarrow \uparrow \downarrow \leftarrow \text{Z} \enspace \leftarrow \leftarrow \uparrow \downarrow \rightarrow \text{Z} \\)
+<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="R8yKLXL8YK8">}}</div>
+
 2. **Upward Z**: \\( \uparrow \rightarrow \rightarrow \leftarrow \text{Z} \enspace \uparrow \leftarrow \leftarrow \rightarrow \text{Z} \\)
 
 **Tips**: Có thể giữ \\( \uparrow \\) để thực hiện dễ hơn
@@ -85,4 +87,5 @@ hidden: true
 <div class="row">
   <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="EpDlNrFrr58">}}</div>
   <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="qL-R5h0CU5k">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="1UOO-WaVuQ8">}}</div>
 </div>
