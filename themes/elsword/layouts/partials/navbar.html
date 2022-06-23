@@ -1,8 +1,8 @@
 {{ $cover := and (.HasShortcode "blocks/cover") (not .Site.Params.ui.navbar_translucent_over_cover_disable) }}
-<nav class="js-navbar-scroll navbar-expand-lg navbar navbar-dark {{ if $cover}} td-navbar-cover {{ end }}flex-row td-navbar">
+<nav class="navbar-expand-lg navbar navbar-dark {{ if $cover}} td-navbar-cover {{ end }}flex-row td-navbar">
 	<a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
 		<div style="display: flex; flex-direction: row;">
-			<span class="navbar-logo">{{ if .Site.Params.ui.navbar_logo }}<img src="{{ (resources.Get "icons/logo.png").RelPermalink}}" style="max-height: 3rem">{{ end }}</span>
+			<span class="navbar-logo">{{ if .Site.Params.ui.navbar_logo }}<img src="{{ (resources.Get "icons/logo.png").RelPermalink}}" style="max-height: 2.5rem">{{ end }}</span>
 			<span style="padding: 6px"></span>
 			<span class="site-title">{{ .Site.Title }}</span>
 		</div>
