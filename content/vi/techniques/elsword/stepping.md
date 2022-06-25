@@ -39,7 +39,7 @@ hidden: true
 
 1. \\( \rightarrow \rightarrow \downarrow \text{Z} \enspace \rightarrow \downarrow \text{Z} \enspace \rightarrow \downarrow \text{Z} \rightarrow \downarrow \text{Z} \\)
 2. \\( \rightarrow \rightarrow \downarrow \text{X} \enspace \rightarrow \downarrow \text{X} \enspace \rightarrow \downarrow \text{X} \rightarrow \downarrow \text{X} \\)
-<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="qj0QiN9GC2g">}}</div>
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="qj0QiN9GC2g">}}</div>
 
 ### Latching
 
