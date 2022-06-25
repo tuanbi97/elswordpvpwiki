@@ -33,7 +33,7 @@ Input thông dụng: \\( \rightarrow \rightarrow \uparrow \leftarrow \\)
 
 Tùy character sẽ có các cách high jump khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
-<div style="max-width: 600px">{{< youtube id="J_r1Qk73Vv8">}}</div>
+<div style="max-width: 600px">{{< yt id="J_r1Qk73Vv8">}}</div>
 
 #### Spring step
 Spring step là kỹ thuật di chuyển nhanh gần mặt đất. Khi sử dụng kỹ thuật, nhân vật nhảy lên xuống như lò xo nên gọi là spring step. Đây là kỹ thuật rất thông dụng dùng tiếp cận đối thủ phương. 
@@ -42,7 +42,7 @@ Input thông dụng: \\( \text{hold dash} \uparrow \enspace \downarrow \uparrow 
 
 Tùy character sẽ có các cách spring step khác nhau. Tìm hiểu thêm trong mục [Stepping]({{< relref "/techniques/common_tech/#stepping" >}}).
 
-<div style="max-width: 600px">{{< youtube id="BFync0r_rM8">}}</div>
+<div style="max-width: 600px">{{< yt id="BFync0r_rM8">}}</div>
 
 ### Advanced
 - Circle step
@@ -106,7 +106,7 @@ Một số lưu ý:
   - Sử dụng skill có I-Frames nếu có thể.
 
 Ví dụ: CC (Comet Crusader) cố găng sử dụng skill chains để thoát khỏi 2 thằng NI (Nova Imperator) cũng đang dùng skill chains để bắt đối thủ. Tuy nhiên, cuối cùng vẫn dính hitstun.
-<div style="max-width: 600px">{{< youtube id="Z08RaOpfmhQ">}}</div>
+<div style="max-width: 600px">{{< yt id="Z08RaOpfmhQ">}}</div>
 
 ## Combo
 Sau khi bắt được đối thủ thì đây là lúc thể hiện khả năng combo của bạn. Combo được chia thành các loại thông dụng sau:
@@ -146,4 +146,4 @@ Khi đang bị đối thủ combo thì có thể dùng mana break để thoát. 
 Cách dùng: Khi có hơn 100 MP. Nhấn giữ `Z` hoặc `X`. Thanh màu vàng sẽ tăng dần trên thanh MP. Khi nhận hit thì nhân vật sẽ mất toàn bộ MP trên thanh màu vàng và bị Knockdown ngay lập tức.
 
 Video hướng dẫn:
-<div style="max-width: 600px">{{< youtube id="WT3pyT_W-y0">}}</div>
+<div style="max-width: 600px">{{< yt id="WT3pyT_W-y0">}}</div>
