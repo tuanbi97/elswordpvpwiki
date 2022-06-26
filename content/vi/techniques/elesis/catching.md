@@ -16,4 +16,4 @@ hidden: true
 Sử dụng Skill {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} **Elite** trở lên.
 - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> {{< skill id="iron_body" name="Iron Body">}} <i class="fa fa-arrow-right"></i> Air slash. Video example
 - {{< skill id="hyper_acceleration" name="Hyper Acceleration">}} <i class="fa fa-arrow-right"></i> Air slash <i class="fa fa-arrow-right"></i> {{< skill id="unlimited_blade" name="Unlimited Blade">}}.
-<div style="max-width: 600px">{{< youtube id="1scf9XzVWVY">}}</div>
+<div style="max-width: 600px">{{< yt id="1scf9XzVWVY">}}</div>

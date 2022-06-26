@@ -5,10 +5,10 @@ hidden: true
 
 ## Videos
 <div class="row">
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="Y3TKdeVyEic">}}</div>
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="ZuunV4b-tAw">}}</div>
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="qSK2URISPPE">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="Y3TKdeVyEic">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="ZuunV4b-tAw">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="qSK2URISPPE">}}</div>
 </div>
 <div class="row">
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="GlX98-ch2T0">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="GlX98-ch2T0">}}</div>
 </div>

@@ -27,13 +27,13 @@ Bật Gale mode trước khi dùng.
 ### Infinite combo
 
 - \\(\text{X}\\) drop: Hất đối thủ lên sau đó \\( \uparrow \text{X} \\) reset KD rate. Bạn có thể chèn X drop này vào bất cứ vị trí nào trong combo của bạn. 
-<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="EL37GYfkM7k">}}</div>
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="EL37GYfkM7k">}}</div>
 
 ## Advanced
 ### Combo damage
 
 - \\(\text{X}\\) sweep: [Stepping]({{< relref "/techniques/elesis/#stepping" >}})
-<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="Y3TKdeVyEic">}}</div>
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="Y3TKdeVyEic">}}</div>
 
 - \\( \text{hold}(\leftarrow \rightarrow) \text{X}\\): X loop
 
@@ -54,13 +54,13 @@ Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):
 Nhờ những combo này mà gear yếu hơn cũng có thể thắng những character gear mạnh hơn nhiều lần.
 
 - \\( \text{Up Down Z} \\): Combo này dù đối phương có mana break hay bị knock down thì đều catch lại được.
-<div style="max-width: 600px; margin-bottom: 30px">{{< youtube id="C_ZTkAH3lgk">}}</div>
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="C_ZTkAH3lgk">}}</div>
 
 - \\( \text{X loop} \\): Combo này damage mạnh. Combo sát cạnh có thể ép đối phương mana break.
 
 ## Videos
 <div class="row">
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="1d7tJiB3gHs">}}</div>
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="BDaqijKqDOM">}}</div>
-  <div class="col-sm mb-3 mr-1 mt-1">{{< youtube id="D5NtAkDYuyo">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="1d7tJiB3gHs">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="BDaqijKqDOM">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="D5NtAkDYuyo">}}</div>
 </div>
