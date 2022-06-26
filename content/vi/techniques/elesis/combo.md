@@ -23,6 +23,7 @@ Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi t
 Bật Gale mode trước khi dùng.
 - \\(\text{Z}\\) loop
 - \\(\text{ZZZ}\\) loop
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="ANBihITxfmw">}}</div>
 
 ### Infinite combo
 
