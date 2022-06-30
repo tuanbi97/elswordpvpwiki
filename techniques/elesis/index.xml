@@ -172,15 +172,15 @@ Video examples&lt;/li>
 &lt;ul>
 &lt;li>Gale mode (Màu xanh):
 &lt;ul>
+&lt;li>&lt;strong>Dùng command Z&lt;/strong>: Hồi MP nhanh, giảm Knockdown rate.&lt;/li>
 &lt;li>Tăng action speed, move speed.&lt;/li>
 &lt;li>Khi dùng Gale skils: Giảm MP cost, Giảm MP cooldown.&lt;/li>
-&lt;li>Khi dùng command Z: Hồi MP nhanh, giảm Knockdown rate.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Annihilation mode(Màu đỏ): Tăng damage command X. Tăng damage các skill có Ahnihilation mode.
 &lt;ul>
+&lt;li>&lt;strong>Dùng command X&lt;/strong>: Tăng damage.&lt;/li>
 &lt;li>Khi dùng Annihilation skills: Ignore 10% defense, ignore Guard (Shield/Knockdown).&lt;/li>
-&lt;li>Khi dùng command X: Tăng damage.&lt;/li>
 &lt;li>Tăng activation chance của các skill Annihilation skills.&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -222,16 +222,31 @@ Video examples&lt;/li>
 &lt;ul>
 &lt;li>\( \text{hold}(\leftarrow \rightarrow) \text{X}\): X loop&lt;/li>
 &lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div class="youtube-container" style="background: #fff url( /elswordpvpwiki/gifs/loader.gif ) no-repeat 50% 50%; background-size: 3rem;">
+&lt;iframe src="https://www.youtube.com/embed/9DM3lOvcM9s?
+" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
 &lt;h3 id="platform-converting">Platform converting&lt;/h3>
 &lt;h4 id="downward">Downward&lt;/h4>
 &lt;ul>
 &lt;li>\(\text{ZZZ}\)&lt;/li>
-&lt;li>\(\text{X drop}\) Video examples&lt;/li>
+&lt;li>\(\text{X sweep}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{X drop}\)&lt;/li>
+&lt;li>\(\text{Dash X}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{X drop}\)&lt;/li>
 &lt;/ul>
 &lt;h4 id="upward">Upward&lt;/h4>
 &lt;ul>
-&lt;li>\(\text{ZZZZ}\) \(\text{X drop}\)&lt;/li>
+&lt;li>\(\text{ZZZZ}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{X drop}\)&lt;/li>
+&lt;li>\(\text{Dash X}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{X drop}\)&lt;/li>
+&lt;li>\(\text{Dash X}\) &lt;i class="fa fa-arrow-right">&lt;/i> \(\text{Dash Jump X/Z}\)&lt;/li>
 &lt;/ul>
+&lt;div style="max-width: 600px; margin-bottom: 30px">
+&lt;div class="youtube-container" style="background: #fff url( /elswordpvpwiki/gifs/loader.gif ) no-repeat 50% 50%; background-size: 3rem;">
+&lt;iframe src="https://www.youtube.com/embed/2BbMp7ox09Q?
+" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/div>
 &lt;h3 id="combo-anti-mana-break-edge-combo">Combo anti mana break (Edge combo)&lt;/h3>
 &lt;p>Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):&lt;/p>
 &lt;ul>
