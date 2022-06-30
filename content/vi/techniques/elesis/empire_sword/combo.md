@@ -24,3 +24,10 @@ Những skill sau đây gây sát thương rất lớn nếu được build up. 
 ### Anti mana break
 - \\(\text{X loop}\\) <i class="fa fa-arrow-right"></i> \\(\text{Special Active skills}\\): Sử dụng gần các cạnh. Dù đối phướng mana break hay KD đều có thể re catch bằng Spectial Active skills. Đối với các character rơi chậm như Ain, Eve, Ara, ... thì cứ X loop nhanh liên tục vẫn bắt được khi KD dù không dùng special active skills.
 Video examples
+
+## Videos
+<div class="row">
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="mJNnyRk694I">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="6xqGtMYApSs">}}</div>
+  <div class="col-sm mb-3 mr-1 mt-1">{{< yt id="YSTLRtrv2og">}}</div>
+</div>
