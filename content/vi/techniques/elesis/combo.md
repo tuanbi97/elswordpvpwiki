@@ -9,12 +9,12 @@ Khi chơi Elesis chú ý thanh Chilvary
 
 Thanh chilvary có 2 modes, tùy loại combo chuyển mode thích hợp:
 - Gale mode (Màu xanh): 
+  - **Dùng command Z**: Hồi MP nhanh, giảm Knockdown rate.
   - Tăng action speed, move speed. 
   - Khi dùng Gale skils: Giảm MP cost, Giảm MP cooldown.
-  - Khi dùng command Z: Hồi MP nhanh, giảm Knockdown rate.
 - Annihilation mode(Màu đỏ): Tăng damage command X. Tăng damage các skill có Ahnihilation mode.
+  - **Dùng command X**: Tăng damage.
   - Khi dùng Annihilation skills: Ignore 10% defense, ignore Guard (Shield/Knockdown).
-  - Khi dùng command X: Tăng damage.
   - Tăng activation chance của các skill Annihilation skills.
 
 Cơ bản thì cứ bật đúng mode khi sử dụng skills/command là lợi thế lớn.
@@ -37,15 +37,20 @@ Bật Gale mode trước khi dùng.
 <div style="max-width: 600px; margin-bottom: 30px">{{< yt id="Y3TKdeVyEic">}}</div>
 
 - \\( \text{hold}(\leftarrow \rightarrow) \text{X}\\): X loop
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="9DM3lOvcM9s">}}</div>
 
 ### Platform converting
 
 #### Downward
 - \\(\text{ZZZ}\\)
-- \\(\text{X drop}\\) Video examples
+- \\(\text{X sweep}\\) <i class="fa fa-arrow-right"></i> \\(\text{X drop}\\)
+- \\(\text{Dash X}\\) <i class="fa fa-arrow-right"></i> \\(\text{X drop}\\)
 
 #### Upward
-- \\(\text{ZZZZ}\\) \\(\text{X drop}\\)
+- \\(\text{ZZZZ}\\) <i class="fa fa-arrow-right"></i> \\(\text{X drop}\\)
+- \\(\text{Dash X}\\) <i class="fa fa-arrow-right"></i> \\(\text{X drop}\\)
+- \\(\text{Dash X}\\) <i class="fa fa-arrow-right"></i> \\(\text{Dash Jump X/Z}\\)
+<div style="max-width: 600px; margin-bottom: 30px">{{< yt id="2BbMp7ox09Q">}}</div>
 
 ### Combo anti mana break (Edge combo)
 Các combo sau đây lợi dụng đặc tính ở gần các cạnh (edge):
