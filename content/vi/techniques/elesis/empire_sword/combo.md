@@ -17,8 +17,7 @@ Khi combo, tận dụng những skill buff và debuff để tăng sát thương 
 ### Strong damage skills
 Những skill sau đây gây sát thương rất lớn nếu được build up. Thậm chí, 1 số skill có thế one shot đối thủ.
 - {{< skill id="rushing_sword" name="Rushing Sword">}} [Rushing Sword](https://www.elwiki.net/w/Rushing_Sword): Skill active nhưng damage rất mạnh nếu chém đủ tất cả các hit.
-- {{< skill id="triple_sonic" name="Triple Sonic">}} [Triple Sonic](https://www.elwiki.net/w/Triple_Sonic)
-- {{< skill id="divine_blade" name="Divine Blade">}} [Divine Blade](https://www.elwiki.net/w/Divine_Blade)
+- {{< skill id="triple_sonic" name="Triple Sonic">}} [Triple Sonic](https://www.elwiki.net/w/Triple_Sonic) {{< skill id="divine_blade" name="Divine Blade">}} [Divine Blade](https://www.elwiki.net/w/Divine_Blade)
 
 ## Advanced
 ### Anti mana break

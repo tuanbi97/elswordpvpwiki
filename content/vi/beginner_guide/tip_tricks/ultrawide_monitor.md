@@ -1,6 +1,6 @@
 ---
-title: "Màn hình Ultrawide 21:9"
-linkTitle: "Màn hình Ultrawide 21:9"
+title: "Màn hình Ultrawide"
+linkTitle: "Màn hình Ultrawide"
 weight: 1
 description: >
   Trick này dùng để tăng phạm vi quan sát của màn hình.
@@ -15,72 +15,47 @@ Trước hết chúng ta hãy cùng so sánh 2 độ phân giải màn hình sau
 - Resolution WFHD (21:9): 2560x1080
 {{< imgproc2 2560_1080 >}}
 
-Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn thêm custom resolution vào Option của Elsword.
+Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn điều chỉnh độ phân giải của Elsword tùy ý muốn.
 
-## Cài đặt trên card màn hình rời (dGPU)
+## Cài đặt Borderless Gaming
 
-Cách này dùng cho các máy tính để bàn (Desktop) có sử dụng card màn hình rời.
+Download từ github: https://github.com/Codeusa/Borderless-Gaming
 
-Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình rời NVIDIA còn AMD thì các bạn xem thêm ở [đây nhé](https://www.amd.com/en/support/kb/faq/dh-032)
+Vào mục release, download borderless gaming về và cài đặt
 
-### Mở NVIDIA Control Panel
+## Cài đặt độ phân giải Ultrawide
 
-Chuột phải lên màn hinh desktop
+1. Mở game Elsword
+2. Mở Borderless gaming
 
-{{< imgproc2 nvidia_control_panel >}}
+Bạn sẽ thấy Elsword xuất hiện trong danh sách Applications của Borderless Gaming (khung bên trái). Click chuột vào sau đó bấm mũi tên để đưa Elsword vào danh sách favorite
 
-### Vào phần Display > Change resolution
+{{< imgproc2 borderless_gaming_config_1 >}}
 
-{{< imgproc2 nvidia_change_resolution >}}
+3. Chuột phải chọn No Size Change
 
-### Chọn Customize > Create Custom Resolution
+{{< imgproc2 borderless_gaming_config_2 >}}
 
-{{< imgproc2 nvidia_customize >}}
+4. Chuột phải vào lần nữa chọn Set Window Size.
 
-### Cài đặt custom resolution
+{{< imgproc2 borderless_gaming_config_3 >}}
 
-Ở đây bạn điền resolution mong muốn vào
+5. Chọn **No** để nhập độ phân giải mong muốn vào. Hoặc chọn **Yes** sau đó vẽ một khung chữ nhật lên màn hình để xác định độ phân giải mới.
 
-{{< imgproc2 nvidia_create_custom >}}
+6. Ở đây mình chọn **No**, app sẽ yêu cầu nhập 4 số:
+- Giá trị trục X và giá trị trục Y: 2 điểm này nhằm xác định vị trí bắt đầu của window.
+- Width và Height: Resolution của window
+7. Các resolution thông dụng
+Quy tắc: Tỉ lệ Width / Height càng lớn thì window càng dài.
+- 1920x800
+- 1920x600
+- 2560x1080
+- 2560x800
 
-Những resolution cho độ phân giải 21:9:
-- 1920x820 (thông dụng)
-- 2560x1080 (thông dụng)
-- 2880×1200
-- 3440×1440
+**Lưu ý**: Bạn có thể set như nào cũng được. Tuy nhiên, **tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ**. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.
 
-Xem thêm [Ultrawide resolution](https://en.wikipedia.org/wiki/Ultrawide_formats)
+8. Sau khi đã set xong resolution, chọn vào nút như hình. App sẽ điều chỉnh Elsword về resolution đã set.
 
-**Lưu ý**: Bạn có thể set như nào cũng được không nhất thiết phải là ultrawide. Tuy nhiên, **tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ**. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.
+{{< imgproc2 borderless_gaming_config_4 >}}
 
-## Cài đặt trên card màn hình tích hợp (iGPU)
-
-Cách này dùng cho các máy laptop hoặc desktop sử dụng card màn hình tích hợp.
-
-### Download Custom Resolution Utility
-
-Download [Custom Resolution Utility](https://custom-resolution-utility.en.lo4d.com/windows). App này dùng được cho cả iGPU AMD và NVIDIA.
-
-Trong trường hợp gặp sự cố không set được custom resolution trên APU của AMD, bạn tham khảo thêm [Radeon Custom Reolution Manager](https://www.softpedia.com/get/System/System-Miscellaneous/RCRM.shtml)
-
-### Cài đặt custom resolution
-
-Những resolution cho độ phân giải 21:9:
-- 1920x820 (thông dụng)
-- 2560x1080 (thông dụng)
-- 2880×1200
-- 3440×1440
-
-Refresh rate thích hợp:
-- 60 Hz (thông dụng)
-- 80 Hz: Nếu màn hình của bạn hỗ trợ refresh rate lớn hơn 80 thì nên set 80 Hz
-
-Restart máy sau khi cài đặt xong.
-
-{{< imgproc2 cru.png >}}
-
-## Cài đặt resolution trên elsword
-
-Sau khi cài đặt xong custom resolution thì mở elsword lên. Custom resolution sẽ xuất hiện trong option của game. Sau khi chọn resolution thì hãy **bật fullscreen**, custom resolution **không có tác dụng trong window mode**.
-
-{{< imgproc2 in_game_option >}}
+9. Sau khi đã cài đặt xong, những lần sau khi bạn mở game và borderless gaming, app sẽ tự động chỉnh game về resolution bạn đã set. Trong trường hợp chưa hài lòng với resolution đã set thì quay lại bước 4.
