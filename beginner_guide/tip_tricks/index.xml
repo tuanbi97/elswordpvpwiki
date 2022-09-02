@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Tips và tricks</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/</link><description>Recent content in Tips và tricks on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner_guide: Màn hình Ultrawide 21:9</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elsword PVP Guide – Tips và tricks</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/</link><description>Recent content in Tips và tricks on Elsword PVP Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner_guide: Màn hình Ultrawide</title><link>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tuanbi97.github.io/elswordpvpwiki/beginner_guide/tip_tricks/ultrawide_monitor/</guid><description>
 &lt;h2 id="tổng-quan">Tổng quan&lt;/h2>
 &lt;p>Trước hết chúng ta hãy cùng so sánh 2 độ phân giải màn hình sau:&lt;/p>
 &lt;ul>
@@ -11,49 +11,52 @@
 &lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/2560_1080.png">&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn thêm custom resolution vào Option của Elsword.&lt;/p>
-&lt;h2 id="cài-đặt-trên-card-màn-hình-rời-dgpu">Cài đặt trên card màn hình rời (dGPU)&lt;/h2>
-&lt;p>Cách này dùng cho các máy tính để bàn (Desktop) có sử dụng card màn hình rời.&lt;/p>
-&lt;p>Hưỡng dẫn sau sẽ hướng dẫn các bạn setup trên card màn hình rời NVIDIA còn AMD thì các bạn xem thêm ở &lt;a href="https://www.amd.com/en/support/kb/faq/dh-032">đây nhé&lt;/a>&lt;/p>
-&lt;h3 id="mở-nvidia-control-panel">Mở NVIDIA Control Panel&lt;/h3>
-&lt;p>Chuột phải lên màn hinh desktop&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_control_panel.png">
-&lt;h3 id="vào-phần-display--change-resolution">Vào phần Display &amp;gt; Change resolution&lt;/h3>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_change_resolution.png">
-&lt;h3 id="chọn-customize--create-custom-resolution">Chọn Customize &amp;gt; Create Custom Resolution&lt;/h3>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_customize.png">
-&lt;h3 id="cài-đặt-custom-resolution">Cài đặt custom resolution&lt;/h3>
-&lt;p>Ở đây bạn điền resolution mong muốn vào&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/nvidia_create_custom.png">
-&lt;p>Những resolution cho độ phân giải 21:9:&lt;/p>
+&lt;p>Màn hình WFHD cho tầm quan sát rộng gấp 2 màn hình FHD. Trong pvp, màn hình rộng giúp cho bạn quan sát đối thủ tốt hơn, di chuyển tốt hơn. Trong pve, quan sát map, boss tốt hơn. Nếu bạn đã có cho mình màn hình 21:9 thì không cần lo lắng gì cả. Tuy nhiên, nếu không có thì hướng dẫn sau đây sẽ giúp bạn điều chỉnh độ phân giải của Elsword tùy ý muốn.&lt;/p>
+&lt;h2 id="cài-đặt-borderless-gaming">Cài đặt Borderless Gaming&lt;/h2>
+&lt;p>Download từ github: &lt;a href="https://github.com/Codeusa/Borderless-Gaming">https://github.com/Codeusa/Borderless-Gaming&lt;/a>&lt;/p>
+&lt;p>Vào mục release, download borderless gaming về và cài đặt&lt;/p>
+&lt;h2 id="cài-đặt-độ-phân-giải-ultrawide">Cài đặt độ phân giải Ultrawide&lt;/h2>
+&lt;ol>
+&lt;li>Mở game Elsword&lt;/li>
+&lt;li>Mở Borderless gaming&lt;/li>
+&lt;/ol>
+&lt;p>Bạn sẽ thấy Elsword xuất hiện trong danh sách Applications của Borderless Gaming (khung bên trái). Click chuột vào sau đó bấm mũi tên để đưa Elsword vào danh sách favorite&lt;/p>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/borderless_gaming_config_1.PNG">
+&lt;ol start="3">
+&lt;li>Chuột phải chọn No Size Change&lt;/li>
+&lt;/ol>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/borderless_gaming_config_2.png">
+&lt;ol start="4">
+&lt;li>Chuột phải vào lần nữa chọn Set Window Size.&lt;/li>
+&lt;/ol>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/borderless_gaming_config_3.png">
+&lt;ol start="5">
+&lt;li>
+&lt;p>Chọn &lt;strong>No&lt;/strong> để nhập độ phân giải mong muốn vào. Hoặc chọn &lt;strong>Yes&lt;/strong> sau đó vẽ một khung chữ nhật lên màn hình để xác định độ phân giải mới.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ở đây mình chọn &lt;strong>No&lt;/strong>, app sẽ yêu cầu nhập 4 số:&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;ul>
-&lt;li>1920x820 (thông dụng)&lt;/li>
-&lt;li>2560x1080 (thông dụng)&lt;/li>
-&lt;li>2880×1200&lt;/li>
-&lt;li>3440×1440&lt;/li>
+&lt;li>Giá trị trục X và giá trị trục Y: 2 điểm này nhằm xác định vị trí bắt đầu của window.&lt;/li>
+&lt;li>Width và Height: Resolution của window&lt;/li>
 &lt;/ul>
-&lt;p>Xem thêm &lt;a href="https://en.wikipedia.org/wiki/Ultrawide_formats">Ultrawide resolution&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Lưu ý&lt;/strong>: Bạn có thể set như nào cũng được không nhất thiết phải là ultrawide. Tuy nhiên, &lt;strong>tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ&lt;/strong>. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.&lt;/p>
-&lt;h2 id="cài-đặt-trên-card-màn-hình-tích-hợp-igpu">Cài đặt trên card màn hình tích hợp (iGPU)&lt;/h2>
-&lt;p>Cách này dùng cho các máy laptop hoặc desktop sử dụng card màn hình tích hợp.&lt;/p>
-&lt;h3 id="download-custom-resolution-utility">Download Custom Resolution Utility&lt;/h3>
-&lt;p>Download &lt;a href="https://custom-resolution-utility.en.lo4d.com/windows">Custom Resolution Utility&lt;/a>. App này dùng được cho cả iGPU AMD và NVIDIA.&lt;/p>
-&lt;p>Trong trường hợp gặp sự cố không set được custom resolution trên APU của AMD, bạn tham khảo thêm &lt;a href="https://www.softpedia.com/get/System/System-Miscellaneous/RCRM.shtml">Radeon Custom Reolution Manager&lt;/a>&lt;/p>
-&lt;h3 id="cài-đặt-custom-resolution-1">Cài đặt custom resolution&lt;/h3>
-&lt;p>Những resolution cho độ phân giải 21:9:&lt;/p>
+&lt;ol start="7">
+&lt;li>Các resolution thông dụng
+Quy tắc: Tỉ lệ Width / Height càng lớn thì window càng dài.&lt;/li>
+&lt;/ol>
 &lt;ul>
-&lt;li>1920x820 (thông dụng)&lt;/li>
-&lt;li>2560x1080 (thông dụng)&lt;/li>
-&lt;li>2880×1200&lt;/li>
-&lt;li>3440×1440&lt;/li>
+&lt;li>1920x800&lt;/li>
+&lt;li>1920x600&lt;/li>
+&lt;li>2560x1080&lt;/li>
+&lt;li>2560x800&lt;/li>
 &lt;/ul>
-&lt;p>Refresh rate thích hợp:&lt;/p>
-&lt;ul>
-&lt;li>60 Hz (thông dụng)&lt;/li>
-&lt;li>80 Hz: Nếu màn hình của bạn hỗ trợ refresh rate lớn hơn 80 thì nên set 80 Hz&lt;/li>
-&lt;/ul>
-&lt;p>Restart máy sau khi cài đặt xong.&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/cru.png">
-&lt;h2 id="cài-đặt-resolution-trên-elsword">Cài đặt resolution trên elsword&lt;/h2>
-&lt;p>Sau khi cài đặt xong custom resolution thì mở elsword lên. Custom resolution sẽ xuất hiện trong option của game. Sau khi chọn resolution thì hãy &lt;strong>bật fullscreen&lt;/strong>, custom resolution &lt;strong>không có tác dụng trong window mode&lt;/strong>.&lt;/p>
-&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/in_game_option.png"></description></item></channel></rss>
+&lt;p>&lt;strong>Lưu ý&lt;/strong>: Bạn có thể set như nào cũng được. Tuy nhiên, &lt;strong>tuyệt đối không set độ phân giải quá lớn so với màn hình của bạn hỗ trợ&lt;/strong>. E.g. Màn hình bạn đang xài 1920x1080, bạn customize lên 5120×2160 thì khả năng cao là die cái màn hình. Đối với màn hình 1920x1080 thì bạn customize thành 1920x800 là được.&lt;/p>
+&lt;ol start="8">
+&lt;li>Sau khi đã set xong resolution, chọn vào nút như hình. App sẽ điều chỉnh Elsword về resolution đã set.&lt;/li>
+&lt;/ol>
+&lt;img src="https://tuanbi97.github.io/elswordpvpwiki/elswordpvpwiki/beginner_guide/tips_and_tricks/ultrawide_monitor/borderless_gaming_config_4.PNG">
+&lt;ol start="9">
+&lt;li>Sau khi đã cài đặt xong, những lần sau khi bạn mở game và borderless gaming, app sẽ tự động chỉnh game về resolution bạn đã set. Trong trường hợp chưa hài lòng với resolution đã set thì quay lại bước 4.&lt;/li>
+&lt;/ol></description></item></channel></rss>
